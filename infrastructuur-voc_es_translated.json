@@ -1,0 +1,2346 @@
+{
+    "classes": [
+        {
+            "EA-Guid": "{F63D0145-2C65-4a7f-84C5-06A9B80EC847}",
+            "name": "Aanplakbord",
+            "label": {
+                "nl": "Aanplakbord",
+                "es": "Cartelera"
+            },
+            "definition": {
+                "nl": "(Paalvormige en duurzame verankering van) signalisatie langsheen de openbare weg met allerlei aankondigingen, al of niet van commerciële aard, op te plakken",
+                "es": "(Anclaje permanente y en forma de poste de) señalización a lo largo de la vía pública con todo tipo de anuncios, sean o no de carácter comercial, para colocar"
+            },
+            "usage": {
+                "nl": "Voornamelijk voor reclameborden en verkiezingsdrukwerk. Naar GRB-skeletaanvulling detail - WPI12: Paal signalisatie publiciteit en Wikidata (https://www.wikidata.org/wiki/Q4379881).",
+                "es": "Principalmente para vallas publicitarias e impresión electoral. Al detalle del complemento esquelético GRB - WPI12: Publicidad de señalización de postes y Wikidata (https://www.wikidata.org/wiki/Q4379881)."
+            }
+        },
+        {
+            "EA-Guid": "{A7D0ABAE-1A43-46cf-B049-FD812E726FC1}",
+            "name": "Afsluiting",
+            "label": {
+                "nl": "Afsluiting",
+                "es": "Clausura"
+            },
+            "definition": {
+                "nl": "Op het terrein ondubbelzinnig aanwijsbare en permanent verankerde scheiding.",
+                "es": "Separación inequívocamente demostrable y anclada permanentemente en el sitio."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting (afgeleid)",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - AFS: Cierre (derivado)"
+            }
+        },
+        {
+            "EA-Guid": "{523DF5E5-28EC-47f4-B1A9-09B87617BFCB}",
+            "name": "Bedieningszuil",
+            "label": {
+                "nl": "Bedieningszuil",
+                "es": "Columna de operaciones"
+            },
+            "definition": {
+                "nl": "Sensor in functie van elektrische installaties of straatmeubilair",
+                "es": "Sensor en función de instalaciones eléctricas o mobiliario urbano"
+            },
+            "usage": {
+                "nl": "Bijvoorbeeld, bedieningszuil voor verzinkbare wegmonoliet.",
+                "es": "Por ejemplo, columna de control para monolito de carretera retráctil."
+            }
+        },
+        {
+            "EA-Guid": "{DFBE3495-8A44-4c4f-AD63-4745E17E6C33}",
+            "name": "Bestendige afsluiting",
+            "label": {
+                "nl": "Bestendige afsluiting",
+                "es": "Cierre resistente"
+            },
+            "definition": {
+                "nl": "Op het terrein ondubbelzinnig aanwijsbare en permanent verankerde scheiding die statisch is in vorm en geen doorgang toelaat.",
+                "es": "Separación inequívocamente identificable y anclada permanentemente en el sitio que tiene una forma estática y no permite el paso."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting",
+                "es": "A GRB Skeleton Reabastecimiento detalle - AFS: Cierre"
+            }
+        },
+        {
+            "EA-Guid": "{EF6EC13A-874D-4308-8088-D9E5F2E08544}",
+            "name": "Betaalautomaat",
+            "label": {
+                "nl": "Betaalautomaat",
+                "es": "terminal de pago"
+            },
+            "definition": {
+                "nl": "Automaat die betaalkaarten of geld accepteert om betalingen uit te voeren bijvoorbeeld voor parkeertickets of tickets voor het openbaar vervoer.",
+                "es": "Máquina que acepta tarjetas de pago o dinero para realizar pagos, por ejemplo para tickets de aparcamiento o billetes de transporte público."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI23: Betaalautomaat",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - WPI23: Terminal POS"
+            }
+        },
+        {
+            "EA-Guid": "{007EB329-D5CF-4374-95E1-DF9BE8AF8ED1}",
+            "name": "Biggetje",
+            "label": {
+                "nl": "Biggetje",
+                "es": "Cerdito"
+            },
+            "definition": {
+                "nl": "Geprefabriceerde zeer lage (betonnen) veiligheidsstootband die over haar gehele lengte in de bodem is ingewerkt. Deze zijn overwegend parallel aan de hartlijn van de wegbaan georiënteerd en worden individueel geplaatst.",
+                "es": "Tope de seguridad prefabricado muy bajo (de hormigón) que se empotra en el suelo en toda su longitud. Estos están orientados principalmente paralelos a la línea central de la calzada y se colocan individualmente."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WLI14: Stootband type biggetjes/varkensruggen",
+                "es": "A GRB Skeleton Complement Detail - WLI14: Piglet/Pig Back Type Bump Band"
+            }
+        },
+        {
+            "EA-Guid": "{8FE1BBAF-AB64-4c4a-9312-EE7DC3746F68}",
+            "name": "Boombeugel",
+            "label": {
+                "nl": "Boombeugel",
+                "es": "Soporte de pluma"
+            },
+            "definition": {
+                "nl": "Een boombeugel is een verticale structuur die enerzijds zorgt voor een adequate bescherming van bomen tegen auto's, fietsen, bromfietsen, en de anderzijds ook de nodige steun biedt bij het opgroeien van jonge bomen.",
+                "es": "Una riostra para árboles es una estructura vertical que, por un lado, proporciona una protección adecuada a los árboles contra coches, bicicletas, ciclomotores y, por otro lado, también proporciona el soporte necesario para que los árboles jóvenes crezcan."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletoptie groen- en begraafplaatsenbeheer - WGB: Boombeugel",
+                "es": "A la opción de esqueleto de GRB Gestión de zonas verdes y cementerios - WGB: soporte de árbol"
+            }
+        },
+        {
+            "EA-Guid": "{A5F87EC6-88FC-4ed8-842C-80CF63E1C610}",
+            "name": "Borstwering",
+            "label": {
+                "nl": "Borstwering",
+                "es": "Parapeto"
+            },
+            "definition": {
+                "nl": "Hekwerk of constructie (balustrade, 'omega'-profielen,...) die geplaatst werd met het oog op de veiligheid van de zwakke weggebruiker, overwegend parallel aan de hartlijn van de wegbaan georiënteerd",
+                "es": "Vallado o construcción (balaustrada, perfiles 'omega',...) colocados con vistas a la seguridad de los usuarios vulnerables de la vía, principalmente orientados paralelos a la línea central de la calzada"
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WLI8: Borstwering",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - WLI8: Parapeto"
+            }
+        },
+        {
+            "EA-Guid": "{7EC9D183-4025-4b57-A058-54E17CC703E3}",
+            "name": "Bovengrondse brandkraan",
+            "label": {
+                "nl": "Bovengrondse brandkraan",
+                "es": "Boca de incendios sobre el suelo"
+            },
+            "definition": {
+                "nl": "Bovengronds aansluitingspunt aan de waterleiding, gelegen boven het maaiveld waar brandslangen op aangesloten kunnen worden.",
+                "es": "Punto de conexión sobre el suelo a la red de agua, situado sobre el nivel del suelo, al que se pueden conectar las mangueras contra incendios."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - WPI4: Bovengrondse brandkraan",
+                "es": "A la base GRB - WPI4: boca de incendios sobre el suelo"
+            }
+        },
+        {
+            "EA-Guid": "{EFBA6364-C56A-438d-BB59-F6283EABB9F4}",
+            "name": "Bushok",
+            "label": {
+                "nl": "Bushok",
+                "es": "Parada de autobús"
+            },
+            "definition": {
+                "nl": "Een bushok biedt in de regel onderdak aan reizigers van het openbaar vervoer.",
+                "es": "Por regla general, una marquesina de autobús ofrece alojamiento a los pasajeros del transporte público."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - WGA1: Bushok",
+                "es": "A la base GRB - WGA1: Marquesina de autobús"
+            }
+        },
+        {
+            "EA-Guid": "{786E7F8F-DA4B-4401-ACDF-D3CD72E2B3A8}",
+            "name": "Camera",
+            "label": {
+                "nl": "Camera",
+                "es": "Cámara"
+            },
+            "definition": {
+                "nl": "Vast of mobiel observatiesysteem dat beelden verzamelt, verwerkt of bewaart om: misdrijven te voorkomen, vast te stellen of op te sporen; overlast te voorkomen, vast te stellen of op te sporen; de orde te handhaven.",
+                "es": "Sistema de vigilancia fijo o móvil que recopila, procesa o almacena imágenes para: prevenir, detectar o detectar delitos; para prevenir, establecer o detectar molestias; para mantener el orden."
+            },
+            "usage": {
+                "nl": "Naar Camerawet (De Gegevensbeschermingsautoriteit)",
+                "es": "To Camera Act (La Autoridad de Protección de Datos)"
+            }
+        },
+        {
+            "EA-Guid": "{44941B5B-D12B-473a-9A7A-949F9529E9F7}",
+            "name": "Communicatiemast",
+            "label": {
+                "nl": "Communicatiemast",
+                "es": "Mástil de comunicación"
+            },
+            "definition": {
+                "nl": "Een meervoudige metalen constructie zoals een tijdelijke GSM-mast, een mast van een radio-amateur, een private ontvangst- en zendinstallatie.",
+                "es": "Una construcción metálica múltiple, como un mástil GSM temporal, un mástil de radioaficionado, una instalación privada de recepción y transmisión."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - KNW15: Communicatiemast divers",
+                "es": "Al detalle de la adición del esqueleto GRB - KNW15: Mástil de comunicación diverso"
+            }
+        },
+        {
+            "EA-Guid": "{F55A656B-20DE-49fb-A22C-B641C942288B}",
+            "name": "Cultuurhistorisch monument",
+            "label": {
+                "nl": "Cultuurhistorisch monument",
+                "es": "Monumento histórico-cultural"
+            },
+            "definition": {
+                "nl": "Een cultuurhistorisch monument is een zichtbare constructie met historische, esthetische of landschappelijke waarde opgetrokken uit duurzame materialen.",
+                "es": "Un monumento histórico-cultural es una construcción visible con valor histórico, estético o paisajístico, realizada con materiales sostenibles."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - KNW3: Cultuurhistorisch monument. Voor een verdere detaillering verwijzen we naar de Klein Erfgoed thesaurus van Onroerend Erfgoed (https://thesaurus.onroerenderfgoed.be/conceptschemes/ERFGOEDTYPES/c/237)",
+                "es": "A la base GRB - KNW3: Monumento histórico-cultural. Para más detalles, nos remitimos al Small Heritage thesaurus de Onroerend Erfgoed (https://thesaurus.onroerenderfgoed.be/conceptschemes/ERFGOEDTYPES/c/237)"
+            }
+        },
+        {
+            "EA-Guid": "{6694F837-773E-4fd5-B840-28168A3806A8}",
+            "name": "Debietmeter",
+            "label": {
+                "nl": "Debietmeter",
+                "es": "Medidor de corriente"
+            },
+            "definition": {
+                "nl": "Een meettoestel bevestigd in of langs een waterloop die het aantal kubieke meter water registreert dat op een bepaald punt in een waterloop per seconde passeert.",
+                "es": "Un dispositivo de medición montado en o a lo largo de un curso de agua que registra el número de metros cúbicos de agua que pasan por segundo en un punto determinado de un curso de agua."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletoptie water- en rioolbeheer - WRM3: Debietmeter",
+                "es": "Para la gestión de agua y aguas residuales de la opción de esqueleto GRB - WRM3: Caudalímetro"
+            }
+        },
+        {
+            "EA-Guid": "{85234889-E08C-4c23-AA7E-66E15185B949}",
+            "name": "Deksel",
+            "label": {
+                "nl": "Deksel",
+                "es": "Tapa"
+            },
+            "definition": {
+                "nl": "Een object om een holte of hol voorwerp af te sluiten.",
+                "es": "Un objeto para cerrar una cavidad o un objeto hueco."
+            },
+            "usage": {
+                "nl": "Deksel voor een holte gelegen in het maaiveld. Naar Wikidata (https://www.wikidata.org/wiki/Q2488579)",
+                "es": "Tapa para una cavidad situada en el nivel del suelo. A Wikidata (https://www.wikidata.org/wiki/Q2488579)"
+            }
+        },
+        {
+            "EA-Guid": "{FBE6B3AA-4427-4df4-B914-E69FC3C587F1}",
+            "name": "Detectielus",
+            "label": {
+                "nl": "Detectielus",
+                "es": "Bucle de detección"
+            },
+            "definition": {
+                "nl": "Inductielus van koperdraad verzonken in het wegdek waarmee met behulp van elektronica een voertuig kan worden waargenomen",
+                "es": "Bucle de inducción hecho de alambre de cobre hundido en la superficie de la carretera con el que se puede detectar un vehículo con la ayuda de la electrónica"
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletoptie wegbeheer - WDL: Detectielus",
+                "es": "A GRB Road Management Skeleton Option - WDL: Bucle de detección"
+            }
+        },
+        {
+            "EA-Guid": "{21BCA416-0BCC-4487-B835-915FB5F4A1EC}",
+            "name": "Draadafsluiting",
+            "label": {
+                "nl": "Draadafsluiting",
+                "es": "terminación de cable"
+            },
+            "definition": {
+                "nl": "Op het terrein ondubbelzinnig aanwijsbare en permanent verankerde scheiding, bestaande uit draad. ",
+                "es": "Separación inequívocamente identificable y anclada permanentemente, que consiste en alambre, en el sitio."
+            },
+            "usage": {
+                "nl": "Verschillend van een spandraad of -ketting. Naar GRB-skeletaanvulling detail - AFS: Afsluiting - Draadafsluiting",
+                "es": "Diferente de un cable de tensión o cadena. A GRB Skeleton Reabastecimiento Detalle - AFS: Terminación - Terminación de hilo"
+            }
+        },
+        {
+            "EA-Guid": "{7F6BED8F-C29A-4b1f-8EDD-5F18AC3F4513}",
+            "name": "Dwarsligger",
+            "label": {
+                "nl": "Dwarsligger",
+                "es": "durmiente"
+            },
+            "definition": {
+                "nl": "Op het terrein ondubbelzinnig aanwijsbare en permanent verankerde scheiding, bestaande uit Ã©Ã©n of meerdere horizontale dwarsliggers.",
+                "es": "Separación inequívocamente demostrable y anclada permanentemente en la obra, formada por una o más traviesas horizontales."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting - Dwarsligger",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - AFS: Cierre - Dormitorio"
+            }
+        },
+        {
+            "EA-Guid": "{C2B17775-9D26-4ddd-8FEA-24AFC3ACF06B}",
+            "name": "Elektriciteitspaal",
+            "label": {
+                "nl": "Elektriciteitspaal",
+                "es": "poste de electricidad"
+            },
+            "definition": {
+                "nl": "Paal van de elektriciteitsleiding.",
+                "es": "Poste de línea eléctrica."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI1: Paal",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - WPI1: Poste"
+            }
+        },
+        {
+            "EA-Guid": "{9DCBB855-B955-448c-9664-A81D84AA87CB}",
+            "name": "Fietsstalling",
+            "label": {
+                "nl": "Fietsstalling",
+                "es": "almacenamiento de bicicletas"
+            },
+            "definition": {
+                "nl": "Een fietsstalling is het geheel aan palen en/of verankeringspunten van een constructie bestemd voor het vastmaken van fietsen, gelegen op het openbare domein.",
+                "es": "Un cobertizo para bicicletas es el conjunto de postes y/o puntos de anclaje de una construcción destinada a la sujeción de bicicletas, situada en el dominio público."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI16: Fietsstalling. Met het attribuut overdekt als True: GRB-basis - WGA3: Overdekte fietsstalling.",
+                "es": "Al detalle de reposición del esqueleto GRB - WPI16: Estacionamiento de bicicletas. Con el atributo cubierto como Verdadero: Base GRB - WGA3: Cobertizo para bicicletas cubierto."
+            }
+        },
+        {
+            "EA-Guid": "{A7B95CBF-D6CC-45c2-AACB-C60B8C746EC4}",
+            "name": "Fietstelpaal",
+            "label": {
+                "nl": "Fietstelpaal",
+                "es": "Contador de bicicletas"
+            },
+            "definition": {
+                "nl": "Paal die automatisch voorbij passerende fietsers telt.",
+                "es": "Poste que cuenta automáticamente los ciclistas que pasan."
+            },
+            "usage": {
+                "nl": "Naar http://vlaamswoordenboek.be/definities/term/fietstelpaal",
+                "es": "A http://vlaamsdictionary.be/definities/term/fietstelpaal"
+            }
+        },
+        {
+            "EA-Guid": "{B8C66F48-45E0-415c-930B-5516DB642D52}",
+            "name": "Flitspaal",
+            "label": {
+                "nl": "Flitspaal",
+                "es": "cámara de velocidad"
+            },
+            "definition": {
+                "nl": "Een meettoestel waarmee snelheidsovertredingen en/of het negeren van een rood verkeerslicht vastgesteld kunnen worden.",
+                "es": "Un dispositivo de medición con el que se puede determinar el exceso de velocidad y/o ignorar un semáforo en rojo."
+            },
+            "usage": {
+                "nl": "Onder GRB-skeletaanvulling detail - WPI1: Paal ",
+                "es": "Debajo del detalle de reabastecimiento del esqueleto GRB - WPI1: Poste"
+            }
+        },
+        {
+            "EA-Guid": "{DE47F070-C8BD-4230-B2C5-4812D6DD7264}",
+            "name": "GSM-paal",
+            "label": {
+                "nl": "GSM-paal",
+                "es": "poste GSM"
+            },
+            "definition": {
+                "nl": "Een burgerlijke constructie die gebruikt wordt voor de distributie van mobiele netwerken.",
+                "es": "Una construcción civil utilizada para la distribución de redes móviles."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - KNW14: Nutspaal",
+                "es": "Al detalle de la adición del esqueleto GRB - KNW14: poste de servicios públicos"
+            }
+        },
+        {
+            "EA-Guid": "{B2A37D94-5271-4b8b-AD52-1AD106CF6DD5}",
+            "name": "Geluidscherm",
+            "label": {
+                "nl": "Geluidscherm",
+                "es": "Barrera del sonido"
+            },
+            "definition": {
+                "nl": "Een geluidswerende wandvormige constructie bestaande uit een desgevallend geluidsisolerend materiaal en/of geluidsabsorberend materiaal en voorzien van de nodige structuren om de bouwkundige stabiliteit te verzekeren.",
+                "es": "Una construcción en forma de pared resistente al sonido que consta de un material fonoaislante y/o material fonoabsorbente, si es necesario, y provista de las estructuras necesarias para garantizar la estabilidad estructural."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletoptie wegbeheer - WGS: geluidsscherm",
+                "es": "A la opción de esqueleto de gestión vial GRB - WGS: barrera acústica"
+            }
+        },
+        {
+            "EA-Guid": "{4EE80233-60A6-41c7-981C-15D8765593D7}",
+            "name": "Grenspaal",
+            "label": {
+                "nl": "Grenspaal",
+                "es": "marcador de límite"
+            },
+            "definition": {
+                "nl": "Een merkpaal die de grens van de Belgische Staat, de provincies en de gemeenten aanduidt.",
+                "es": "Un marcador que marca la frontera del Estado belga, las provincias y los municipios."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - WPI5: Grenspaal",
+                "es": "A base GRB - WPI5: marcador de límite"
+            }
+        },
+        {
+            "EA-Guid": "{7DC508C1-18F9-4c52-A43F-1B84092715D1}",
+            "name": "Haltepaal",
+            "label": {
+                "nl": "Haltepaal",
+                "es": "Detener publicación"
+            },
+            "definition": {
+                "nl": "Een haltepaal duidt de locatie aan waar het openbaar vervoer, bv. bus, tram of trolley, stopt om passagiers te laten in- en uitstappen.",
+                "es": "Un poste de parada indica el lugar donde el transporte público, por ejemplo, autobús, tranvía o trolebús, se detiene para permitir que los pasajeros suban y bajen."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI1102 wegsignalisatie openbaar vervoer ",
+                "es": "A GRB Skeleton Complement Detail - WPI1102 Señalización vial de transporte público"
+            }
+        },
+        {
+            "EA-Guid": "{F73B9AF2-407A-414e-9532-78B08EE81E99}",
+            "name": "Hondenpoepbuis",
+            "label": {
+                "nl": "Hondenpoepbuis",
+                "es": "tubo de caca de perro"
+            },
+            "definition": {
+                "nl": "Een buisvormige Openbare Vuilnisbak waarin hondenpoepzakjes gedeponeerd kunnen worden.",
+                "es": "Cubo de basura público tubular en el que se pueden depositar las bolsas de caca de perro."
+            }
+        },
+        {
+            "EA-Guid": "{B11494CB-6D4F-46b3-9F06-23926A94E3C1}",
+            "name": "Hoogspanningsmast",
+            "label": {
+                "nl": "Hoogspanningsmast",
+                "es": "Pilón de alto voltaje"
+            },
+            "definition": {
+                "nl": "Een hoogspanningsmast is een kunstwerk bedoeld voor het transport van stroom onder hoge spanning.",
+                "es": "Una torre de alta tensión es una estructura destinada al transporte de electricidad en alta tensión."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - KNW4: Hoogspanningsmast/TV-mast",
+                "es": "A la base GRB - KNW4: Torre de alta tensión/torre de TV"
+            }
+        },
+        {
+            "EA-Guid": "{CB9BF4D3-A96D-4f38-89F9-6776D2BE86F5}",
+            "name": "Hoogspanningspaal",
+            "label": {
+                "nl": "Hoogspanningspaal",
+                "es": "Poste de alta tensión"
+            },
+            "definition": {
+                "nl": "Een burgerlijke constructie die gebruikt wordt voor het transport van elektriciteit.",
+                "es": "Una construcción civil utilizada para la transmisión de electricidad."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - KNW14: Nutspaal",
+                "es": "Al detalle de la adición del esqueleto GRB - KNW14: poste de servicios públicos"
+            }
+        },
+        {
+            "EA-Guid": "{61E080EA-E148-4182-95B6-D53796E1590B}",
+            "name": "Huisaansluiting",
+            "label": {
+                "nl": "Huisaansluiting",
+                "es": "conexión de la casa"
+            },
+            "definition": {
+                "nl": "Zichtbaar en publiek eindpunt van een huisaansluiting voor afval- en regenwater.",
+                "es": "Punto final visible y público de una conexión doméstica para aguas residuales y pluviales."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI22: Huisaansluiting",
+                "es": "Al detalle de reposición del esqueleto GRB - WPI22: Conexión de la casa"
+            }
+        },
+        {
+            "EA-Guid": "{BB8FA565-7551-4ed0-866B-A592AC3824C1}",
+            "name": "Infozuil",
+            "label": {
+                "nl": "Infozuil",
+                "es": "columna de información"
+            },
+            "definition": {
+                "nl": "(Paalvormige en duurzame verankering van) signalisatie langsheen de openbare weg met allerlei aankondigingen, al of niet van commerciële aard, op te plakken.",
+                "es": "(Fijación permanente y en forma de poste de) señalización a lo largo de la vía pública con toda clase de anuncios, sean o no de carácter comercial."
+            },
+            "usage": {
+                "nl": "Voornamelijk ten behoeve van het verspreiden van informatie (Stratenplan, inforbord gemeente ...). Naar GRB-skeletaanvulling detail - WPI12: Paal signalisatie publiciteit.",
+                "es": "Principalmente con la finalidad de difundir información (callejero, tablón informativo del municipio...). Al detalle de reposición del esqueleto GRB - WPI12: Publicidad de señalización de postes."
+            }
+        },
+        {
+            "EA-Guid": "{BE978AD9-6EC3-4227-80B7-7D4FE8305601}",
+            "name": "Infrastructuurelement",
+            "label": {
+                "nl": "Infrastructuurelement",
+                "es": "Elemento de infraestructura"
+            },
+            "definition": {
+                "nl": "Individueel object op het Openbaar Domein dat niet vegetatief is.",
+                "es": "Objeto individual en Dominio Público que no sea vegetativo."
+            }
+        },
+        {
+            "EA-Guid": "{28C1DAE5-F8CC-48c6-9737-F55F71864BCC}",
+            "name": "Keldergat",
+            "label": {
+                "nl": "Keldergat",
+                "es": "Agujero de bodega"
+            },
+            "definition": {
+                "nl": "Elke horizontale en artificieel afgebakende opening in het maaiveld langsheen de gevelwand van een gebouw, bedoeld als toegang of als verluchting en verlichting van kelders.",
+                "es": "Cualquier abertura horizontal y definida artificialmente en el nivel del suelo a lo largo de la pared de fachada de un edificio, destinada a una entrada o como ventilación e iluminación de sótanos."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - GBA8: Rand gebouwaanhorigheid type keldergat ",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - GBA8: Agujero de sótano de tipo accesorio de edificio de borde"
+            }
+        },
+        {
+            "EA-Guid": "{CED2F272-012A-4b98-8214-3D3E78FEC9D8}",
+            "name": "Kleine windturbine",
+            "label": {
+                "nl": "Kleine windturbine",
+                "es": "Pequeño aerogenerador"
+            },
+            "definition": {
+                "nl": "Een kleine windturbine is een constructie die gebruikt wordt voor de aanmaak van nutssignalen. Een kleine windturbine onderscheid zich van middelgrote of grootschalige windturbines door zijn beperkte ashoogte (15m), gemeten vanaf de voet van de windturbine. Een kleine windturbine kan voorkomen ter hoogte van het maaiveld of op gebouwen en constructies.",
+                "es": "Una pequeña turbina eólica es una estructura utilizada para generar señales de servicios públicos. Un aerogenerador pequeño se diferencia de los aerogeneradores de tamaño medio o grande por su altura de eje limitada (15 m), medida desde la base del aerogenerador. Una pequeña turbina eólica puede ocurrir a nivel del suelo o encima de edificios y estructuras."
+            },
+            "usage": {
+                "nl": "Naar GRB aanvullende steekkaarten - WPI29: Kleine windturbine",
+                "es": "A fichas adicionales GRB - WPI29: Turbina eólica pequeña"
+            }
+        },
+        {
+            "EA-Guid": "{499A5FCA-E67A-405d-AB15-1003F4E0675D}",
+            "name": "Knipperlicht",
+            "label": {
+                "nl": "Knipperlicht",
+                "es": "Luz intermitente"
+            },
+            "definition": {
+                "nl": "Een oranje of wit knipperlicht op een paal, dat dienst doet als verkeerssignaal op wegen (vb. zone 30).",
+                "es": "Una luz intermitente naranja o blanca en un poste, que sirve como señal de tráfico en las carreteras (por ejemplo, la zona 30)."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI33: Knipperlicht",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - WPI33: Blinker"
+            }
+        },
+        {
+            "EA-Guid": "{D0437F28-F8CC-4e53-B1D3-4BD3980869B3}",
+            "name": "Kopmuur",
+            "label": {
+                "nl": "Kopmuur",
+                "es": "muro de cabecera"
+            },
+            "definition": {
+                "nl": "Een kopmuur is een inrichtingselement van de wegbaan, dat gebruikt wordt voor de geleiding van verkeer bij grachten. Een kopmuur is een keermuur die een functie vervult van afwateringssysteem en is in de regel haaks op de hartlijn van de wegcorridor georiënteerd.",
+                "es": "Un muro de cabecera es un elemento de diseño de la calzada, que se utiliza para guiar el tráfico cerca de los canales. Un muro de cabecera es un muro de contención que cumple la función de un sistema de drenaje y generalmente está orientado perpendicularmente a la línea central del corredor vial."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - KNW19: Kopmuur",
+                "es": "Al detalle de la adición del esqueleto GRB - KNW19: Pared final"
+            }
+        },
+        {
+            "EA-Guid": "{9FF90012-897B-4768-8ABD-20E2EC1F7EF2}",
+            "name": "Krooshek",
+            "label": {
+                "nl": "Krooshek",
+                "es": "Estante para basura"
+            },
+            "definition": {
+                "nl": "Een rooster, bedoeld om drijvend materiaal tegen te houden.",
+                "es": "Una rejilla, destinada a detener el material flotante."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletoptie water- en rioolbeheer - KNW20: Bijzondere hydraulische constructie; WRC4: Functiecode bijzondere hydraulische constructie (KH: krooshekken) en naar Wikidata (https://www.wikidata.org/wiki/Q2397968)",
+                "es": "A GRB esqueleto opción gestión de agua y alcantarillado - KNW20: Construcción hidráulica especial; WRC4: código de función de construcción hidráulica especial (KH: basureros) y a Wikidata (https://www.wikidata.org/wiki/Q2397968)"
+            }
+        },
+        {
+            "EA-Guid": "{4DDA0EF8-C1EF-4d33-9D61-A56260CE3313}",
+            "name": "Lichtpunt",
+            "label": {
+                "nl": "Lichtpunt",
+                "es": "punto de luz"
+            },
+            "definition": {
+                "nl": "Elk lichtpunt dat is ingewerkt in het maaiveld of op een paaltje op beperkte hoogte boven het maaiveld (tot 2 meter) en dat gebruikt wordt als randverlichting (bvb verlichting van monument, parking,...), naast de openbare straatverlichting",
+                "es": "Todo punto de luz que se incorpore a ras de suelo o sobre un poste a una altura limitada sobre el nivel del suelo (hasta 2 metros) y que se utilice como iluminación de borde (por ejemplo, para iluminar monumentos, aparcamientos, etc.), además de alumbrado publico"
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI20: Lichtpunt",
+                "es": "Al detalle de reposición del esqueleto GRB - WPI20: Point of Light"
+            }
+        },
+        {
+            "EA-Guid": "{74F739BE-8871-4988-8C63-AA97B13B3FDA}",
+            "name": "Lijnvormige wegmarkering",
+            "label": {
+                "nl": "Lijnvormige wegmarkering",
+                "es": "señalización vial lineal"
+            },
+            "definition": {
+                "nl": "Lijnvormige schilderingen aangebracht op het verhard gedeelte van de wegbaan of kleurveranderingen van de verharding die een onderdeel vormen van de verkeerswetgeving.",
+                "es": "Pinturas lineales aplicadas a la parte pavimentada de la calzada o cambios de color del pavimento que forman parte de la legislación de tránsito."
+            },
+            "usage": {
+                "nl": "Volgende types lijnvormige wegmarkering komen in aanmerking: arceringslijn,  kammarkering, doorlopende streep, rand van de rijbaan, fietstrook / fietspad, onderbroken lijn (5m), onderbroken streep (10m), gele onderbroken trottoirband, naderingsmarkering, busrijvak onderbroken, busrijvak ononderbroken, stopstreep, scheiding tussen individuele parkeerplaatsen. Naar GRB-skeletoptie wegbeheer - WEM2: Lijnvormige wegmarkering.",
+                "es": "Los siguientes tipos de marcas viales lineales son elegibles: línea de sombreado, marca de peine, línea continua, borde de la calzada, carril para bicicletas / ciclovía, línea discontinua (5 m), línea discontinua (10 m), bordillo amarillo discontinuo, señalización de acceso, autobús carril interrumpido, carril bus continuo, línea de parada, separación entre plazas de aparcamiento individuales. A la opción de esqueleto de gestión vial GRB - WEM2: Señalización vial lineal."
+            }
+        },
+        {
+            "EA-Guid": "{7283028F-FE4E-4a97-AC73-39CFFA4EC502}",
+            "name": "Longitudinale weginrichting",
+            "label": {
+                "nl": "Longitudinale weginrichting",
+                "es": "diseño de carreteras longitudinales"
+            },
+            "definition": {
+                "nl": "Een vast inrichtingselement binnen de wegbaan, met als doel de verkeersstromen in gescheiden stroken te leiden. Deze inrichtingselementen zijn overwegend parallel aan de lengteas van de wegbaan georiënteerd.",
+                "es": "Un elemento de diseño fijo dentro de la calzada, con el objetivo de dirigir los flujos de tráfico en carriles separados. Estos elementos de diseño están orientados principalmente paralelos al eje longitudinal de la calzada."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - WLI: Longitudinale weginrichting",
+                "es": "A la base GRB - WLI: Diseño de carretera longitudinal"
+            }
+        },
+        {
+            "EA-Guid": "{07DE8B9E-3F3F-4250-8BE8-8DB68F512933}",
+            "name": "Mast",
+            "label": {
+                "nl": "Mast",
+                "es": "Mástil"
+            },
+            "definition": {
+                "nl": "Een civieltechnische constructie, anders dan een gebouw, opgetrokken uit duurzame materialen en zichtbaar aan het aardoppervlak. Een mast onderscheidt zich van een paal door zijn meervoudige duurzame verankering met de grond (bv. drievoetige mast).",
+                "es": "Una estructura de ingeniería civil, que no sea un edificio, hecha de materiales duraderos y visible en la superficie de la tierra. Un mástil se diferencia de un poste por sus múltiples anclajes permanentes al suelo (por ejemplo, mástil de tres patas)."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - KNW4: Hoogspanningsmast/TV-mast",
+                "es": "A la base GRB - KNW4: Torre de alta tensión/torre de TV"
+            }
+        },
+        {
+            "EA-Guid": "{76CF614C-629B-43d9-BA73-A8374E0C61FE}",
+            "name": "Meerpaal",
+            "label": {
+                "nl": "Meerpaal",
+                "es": "Noray"
+            },
+            "definition": {
+                "nl": "Een paal/bolder, gelegen aan de rand van grote waterpartijen en van een speciale vorm voorzien om een schip vast te kunnen leggen bij het aanmeren. Een meerpaal is in principe hetzelfde als een bolder.",
+                "es": "Un bolardo, ubicado en el borde de grandes fuentes de agua y provisto de una forma especial para asegurar un barco cuando amarra. Un poste de amarre es básicamente lo mismo que un bolardo."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - WPI3: Meerpaal",
+                "es": "A base GRB - WPI3: Bolardo"
+            }
+        },
+        {
+            "EA-Guid": "{13650FF5-3FA9-41cc-981B-6EE9D7DC2C43}",
+            "name": "Meteopaal",
+            "label": {
+                "nl": "Meteopaal",
+                "es": "Meteopal"
+            },
+            "definition": {
+                "nl": "Paal, permanent en duurzaam verankerd met de bodem, waarop een meetinstrument (windzak, windmeter, ...) bevestigd is ter bepaling van atmosferische omstandigheden.",
+                "es": "Pilote, anclado de forma permanente y permanente al suelo, sobre el que se sujeta un instrumento de medida (manga de viento, anemómetro,...) para determinar las condiciones atmosféricas."
+            },
+            "usage": {
+                "nl": "Naar GRB aanvullende steekkaarten - WPI28: Meteopaal ",
+                "es": "A fichas adicionales GRB - WPI28: Meteopal"
+            }
+        },
+        {
+            "EA-Guid": "{46CCF037-B3DE-4f4c-B5E7-AD4AC77EF279}",
+            "name": "Muur",
+            "label": {
+                "nl": "Muur",
+                "es": "Muro"
+            },
+            "definition": {
+                "nl": "Buiten de wegbaan gelegen en op het terrein ondubbelzinnig aanwijsbare en permanent, lijnvormig verankerde en rechtopstaande scheiding of grondkering bestaande uit opeengestapeld (min. 2 lagen) metselwerk of beton.",
+                "es": "Ubicada fuera de la calzada e inequívocamente identificable en el sitio y de forma permanente, anclada linealmente y en posición vertical, o estructura de contención de tierra que consiste en mampostería u hormigón apilado (mín. 2 capas)."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - AMR: Muur",
+                "es": "A GRB Skeleton Reabastecimiento detalle - AMR: Muro"
+            }
+        },
+        {
+            "EA-Guid": "{40BA617A-548D-4021-8D8E-27E3C86F1844}",
+            "name": "Muur binnen de wegbaan",
+            "label": {
+                "nl": "Muur binnen de wegbaan",
+                "es": "Muro dentro de la calzada"
+            },
+            "definition": {
+                "nl": "Muren binnen de wegbaan met als doel de normale verkeersstromen in gescheiden stroken te leiden. Deze zijn overwegend parallel aan de hartlijn van de wegbaan georiënteerd.",
+                "es": "Muros dentro de la calzada con el objetivo de desviar los flujos normales de tráfico en carriles separados. Estos están orientados principalmente paralelos a la línea central de la calzada."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WLI10: Muur binnen de wegbaan ",
+                "es": "A GRB Skeleton Reabastecimiento detalle - WLI10: Muro dentro de la calzada"
+            }
+        },
+        {
+            "EA-Guid": "{234137F5-3528-44da-9241-0B30CD7C88EE}",
+            "name": "Normandische afsluiting",
+            "label": {
+                "nl": "Normandische afsluiting",
+                "es": "cierre normando"
+            },
+            "definition": {
+                "nl": "Een afsluiting die typisch bestaat uit betonnen palen met betonnen dwarsbalken.",
+                "es": "Una valla que normalmente consta de postes de hormigón con vigas transversales de hormigón."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting - Normandische afsluiting",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - AFS: Cierre - Cierre de Normandía"
+            }
+        },
+        {
+            "EA-Guid": "{D50BB4A0-BFD9-4588-B406-49E9E801CE69}",
+            "name": "Nutskast",
+            "label": {
+                "nl": "Nutskast",
+                "es": "armario de utilidad"
+            },
+            "definition": {
+                "nl": "Een voor de mens niet-toegankelijke bovengrondse en beschermende ombouw waarin elektrische onderdelen en installaties, noodzakelijk voor de distributie van gas, elektriciteit en communicatiesignalen, worden ondergebracht (algemeen).",
+                "es": "Vivienda aérea y de protección inaccesible para el ser humano, en la que se alojan los componentes e instalaciones eléctricas, necesarias para la distribución de gas, electricidad y señales de comunicación (general)."
+            },
+            "usage": {
+                "nl": "Aangevuld met een Nutsvoorzieningscode (GRB-skeletoptie wegbeheer - WNC: nutsvoorzieningscode). Naar GRB-skeletaanvulling detail - WKI: Nutskast.",
+                "es": "Complementado con un código de utilidad (GRB skeleton option road management - WNC: código de utilidad). Al detalle de reabastecimiento del esqueleto GRB - WKI: Gabinete de utilidad."
+            }
+        },
+        {
+            "EA-Guid": "{DDDCD57B-ED48-473d-84CC-784E488CA126}",
+            "name": "Nutspaal",
+            "label": {
+                "nl": "Nutspaal",
+                "es": "Poste de electricidad"
+            },
+            "definition": {
+                "nl": "Een nutspaal is een burgerlijke constructie, die gebruikt wordt voor de aanmaak (windturbine), het transport (hoogspanningspaal) of distributie (GSM-paal) van nutssignalen.",
+                "es": "Un poste de servicios públicos es una estructura civil utilizada para la generación (turbina eólica), el transporte (poste de alta tensión) o la distribución (poste GSM) de señales de servicios públicos."
+            },
+            "usage": {
+                "nl": "Een paal verschilt van een mast door zijn enkelvoetige duurzame verankering met de grond. Naar GRB-skeletaanvulling detail - KNW14: Nutspaal",
+                "es": "Un poste se diferencia de un mástil por su anclaje permanente al suelo de un solo pie. Al detalle de la adición del esqueleto GRB - KNW14: poste de servicios públicos"
+            }
+        },
+        {
+            "EA-Guid": "{545450ED-E5A7-425c-A3A5-2607B2EBCE8C}",
+            "name": "Omklapbare wegmonoliet",
+            "label": {
+                "nl": "Omklapbare wegmonoliet",
+                "es": "Monolito de carretera plegable"
+            },
+            "definition": {
+                "nl": "Een omklapbaar massief obstakel dat de doorgang van voertuigen kan beletten en dynamisch is in aard.",
+                "es": "Un obstáculo sólido plegable que puede impedir el paso de vehículos y es de naturaleza dinámica."
+            },
+            "usage": {
+                "nl": "Een omklapbaar massief obstakel dat de doorgang van voertuigen kan beletten en dynamisch is in aard.",
+                "es": "Un obstáculo sólido plegable que puede impedir el paso de vehículos y es de naturaleza dinámica."
+            }
+        },
+        {
+            "EA-Guid": "{7B616A1C-0F0E-4328-B683-36F962471CC3}",
+            "name": "Openbaar toilet",
+            "label": {
+                "nl": "Openbaar toilet",
+                "es": "Baño público"
+            },
+            "definition": {
+                "nl": "Een toilet dat bestemd is voor algemeen gebruik en dat zich bevindt in de openbare ruimte of op een locatie met veel passanten, zoals in trein- of benzinestations, of op een evenemententerrein.",
+                "es": "Un aseo destinado a un uso general y que se encuentra en un espacio público o en un lugar con muchos transeúntes, como en estaciones de tren o gasolina, o en un lugar de eventos."
+            },
+            "usage": {
+                "nl": "Naar Wikidata (https://www.wikidata.org/wiki/Q813966)",
+                "es": "A Wikidata (https://www.wikidata.org/wiki/Q813966)"
+            }
+        },
+        {
+            "EA-Guid": "{55234F19-8E80-4f07-B0EF-AC7B60A56806}",
+            "name": "Openbare brievenbus",
+            "label": {
+                "nl": "Openbare brievenbus",
+                "es": "buzón público"
+            },
+            "definition": {
+                "nl": "Een openbare postbus ter verzameling van briefwisseling voor regelmatige verzending via postbedrijven.",
+                "es": "Buzón público de recogida de correspondencia para envíos ordinarios a través de empresas postales."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI13: Openbare brievenbus",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - WPI13: Buzón público"
+            }
+        },
+        {
+            "EA-Guid": "{FDEDC51E-D6D9-45f5-A752-713C504DDEEC}",
+            "name": "Openbare straatverlichting aan gevel of muur",
+            "label": {
+                "nl": "Openbare straatverlichting aan gevel of muur",
+                "es": "Alumbrado público en fachada o pared"
+            },
+            "definition": {
+                "nl": "Een openbaar lichtpunt dat is bevestigd aan de gevel van een gebouw of constructie of bevestigd is aan een muur en dat gebruikt wordt om de omgeving te verlichten.",
+                "es": "Un punto de luz pública que se adjunta a la fachada de un edificio o estructura o se adjunta a una pared y se utiliza para iluminar el área circundante."
+            },
+            "usage": {
+                "nl": "Omvat bijvoorbeeld ook de plafondverlichting in tunnels. Naar GRB-skeletaanvulling detail - WPI31: Openbare straatverlichting aan gevel/muur.",
+                "es": "También incluye, por ejemplo, la iluminación de techo en túneles. Detalle de adición al esqueleto GRB - WPI31: Alumbrado público en fachada/pared."
+            }
+        },
+        {
+            "EA-Guid": "{46F787F6-7050-4c12-9E57-869F4A8F8861}",
+            "name": "Openbare verlichting",
+            "label": {
+                "nl": "Openbare verlichting",
+                "es": "alumbrado publico"
+            },
+            "definition": {
+                "nl": "Een openbare lichtpunt dat gebruikt wordt om de omgeving te verlichten.",
+                "es": "Un punto de luz pública utilizado para iluminar el entorno."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI31: Openbare straatverlichting aan gevel/muur; WPI20: Lichtpunt",
+                "es": "Al detalle de la adición del esqueleto GRB - WPI31: Alumbrado público en la fachada/pared; WPI20: Punto de Luz"
+            }
+        },
+        {
+            "EA-Guid": "{29D762C5-5CA8-4dc1-8A18-4D9C9DDBB1F1}",
+            "name": "Openbare vuilnisbak",
+            "label": {
+                "nl": "Openbare vuilnisbak",
+                "es": "bote de basura publico"
+            },
+            "definition": {
+                "nl": "Deels in de grond ingewerkte of verankerde vuilnisbak, bestemd voor het deponeren van afval van de voorbijgangers en gelegen op het openbare domein.",
+                "es": "Cubo de basura parcialmente incorporado o anclado en el suelo, destinado al depósito de residuos de los transeúntes y situado en el dominio público."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI15: Openbare vuilnisbak",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - WPI15: Cubo de basura público"
+            }
+        },
+        {
+            "EA-Guid": "{641092C0-89C7-434b-8A96-7F7196956FA4}",
+            "name": "Oplaadpunt",
+            "label": {
+                "nl": "Oplaadpunt",
+                "es": "Estación de carga"
+            },
+            "definition": {
+                "nl": "Een infrastructuurelement dat elektrische energie voorziet om een elektrisch voertuig zoals een boot, fiets of een auto op te laden.",
+                "es": "Un elemento de infraestructura que proporciona energía eléctrica para cargar un vehículo eléctrico como un bote, una bicicleta o un automóvil."
+            },
+            "usage": {
+                "nl": "Naar Wikidata (https://www.wikidata.org/wiki/Q2140665)",
+                "es": "A Wikidata (https://www.wikidata.org/wiki/Q2140665)"
+            }
+        },
+        {
+            "EA-Guid": "{74E19F13-331E-4340-924D-5E1A2E0A45D4}",
+            "name": "Paal bovenleiding tram trein trolley",
+            "label": {
+                "nl": "Paal bovenleiding tram trein trolley",
+                "es": "Carro de tren de tranvía de catenaria de poste"
+            },
+            "definition": {
+                "nl": "Paal van de bovenleiding van trolley- of spoorinstallaties",
+                "es": "Poste de la catenaria de las instalaciones de carro o vía"
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI1: Paal; WPI105 bovenleiding tram, trein of trolley",
+                "es": "Al detalle de reposición del esqueleto GRB - WPI1: Poste; WPI105 catenaria tranvía, tren o trolebús"
+            }
+        },
+        {
+            "EA-Guid": "{E7A7B6AB-1A74-4170-8847-F2C5A30ED036}",
+            "name": "Paneelafsluiting",
+            "label": {
+                "nl": "Paneelafsluiting",
+                "es": "Terminación de paneles"
+            },
+            "definition": {
+                "nl": "Een afsluiting opgebouwd uit een of meerdere panelen.",
+                "es": "Una valla formada por uno o más paneles."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting - houten paneel en afsluiting",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - AFS: Cierre - Panel de Madera y Cierre"
+            }
+        },
+        {
+            "EA-Guid": "{7493FD91-FCC6-4f66-B83E-4CE4568C7943}",
+            "name": "Parkeersensor",
+            "label": {
+                "nl": "Parkeersensor",
+                "es": "Sensor de estacionamiento"
+            },
+            "definition": {
+                "nl": "Een sensor die de aanwezigheid van een voertuig op een parkeerplaats registreert.",
+                "es": "Un sensor que registra la presencia de un vehículo en una plaza de aparcamiento."
+            }
+        },
+        {
+            "EA-Guid": "{A954B537-23E2-4f01-AA7D-AF759ED61D14}",
+            "name": "Picknicktafel",
+            "label": {
+                "nl": "Picknicktafel",
+                "es": "Mesa de picnic"
+            },
+            "definition": {
+                "nl": "Voor iedereen vrij toegankelijke tafel op verzorgingsplaatsen (o.a. langs autowegen, recreatiegebieden, parken, pleinen ...) met vaak daaraan gemonteerde zitbanken of stoelen die kan gebruikt worden om te picknicken.",
+                "es": "Mesas de libre acceso para todos en áreas de servicio (por ejemplo, a lo largo de autopistas, áreas recreativas, parques, plazas, etc.) a menudo con bancos o sillas adjuntas que se pueden usar para picnics."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletoptie groen- en begraafplaatsenbeheer - PRA: Park- of recreatieattribuut; PRC: Functiecode park- of recreatieattribuut  en Wikidata (https://www.wikidata.org/wiki/Q2466395)",
+                "es": "A GRB verde y opción de esqueleto de gestión de cementerios - PRA: Atributo de parque o recreación; PRC: código de función de atributo de parque o recreación y Wikidata (https://www.wikidata.org/wiki/Q2466395)"
+            }
+        },
+        {
+            "EA-Guid": "{0CDC286D-E410-4135-BF31-F24BCF8A4C3D}",
+            "name": "Pijler",
+            "label": {
+                "nl": "Pijler",
+                "es": "Pilar"
+            },
+            "definition": {
+                "nl": "Een pijler is een civieltechnische constructie, anders dan gebouw, opgetrokken uit duurzame materialen en zichtbaar aan het aardoppervlak bedoeld voor het ondersteunen van civieltechnische constructies zoals gebouwen of bruggen.",
+                "es": "Un muelle es una estructura de ingeniería civil, que no sea un edificio, construida con materiales duraderos y visible en la superficie de la tierra, destinada a soportar estructuras de ingeniería civil, como edificios o puentes."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - KNW5: Pijler",
+                "es": "A base GRB - KNW5: Pilar"
+            }
+        },
+        {
+            "EA-Guid": "{AC3B5B0E-2E2F-456b-9D1B-7808C99865E5}",
+            "name": "Plooibaken",
+            "label": {
+                "nl": "Plooibaken",
+                "es": "Baliza plegable"
+            },
+            "definition": {
+                "nl": "Een zacht kunststoffen paal met verschillende diameter en reflecterende banden.",
+                "es": "Un poste de plástico blando con diferentes diámetros y bandas reflectantes."
+            }
+        },
+        {
+            "EA-Guid": "{A1F7B8B7-9EB1-4ae4-BEF5-59674E5787AE}",
+            "name": "Puntvormige wegmarkering",
+            "label": {
+                "nl": "Puntvormige wegmarkering",
+                "es": "señalización vial puntiaguda"
+            },
+            "definition": {
+                "nl": "Puntvormige schilderingen aangebracht op het verhard gedeelte van de wegbaan en die een onderdeel vormen van de verkeerswetgeving.",
+                "es": "Pinturas puntiagudas aplicadas en la parte pavimentada de la calzada y que forman parte de la legislación de circulación."
+            },
+            "usage": {
+                "nl": "Types puntvormige wegmarkering: fiets; mindervalide, snelheidsbeperkingen, parkeerverbod, plaats met veel kinderen, pijlen, letters, uitroepteken, voorrang van rechts. Naar GRB-skeletoptie wegbeheer - WEM1: Puntvormige wegmarkering.",
+                "es": "Tipos de señalización vial puntiaguda: bicicleta; discapacitados, límites de velocidad, prohibición de estacionamiento, lugar con muchos niños, flechas, letras, signo de exclamación, derecho de paso. A la opción de esqueleto de gestión vial GRB - WEM1: Señalización vial puntiaguda."
+            }
+        },
+        {
+            "EA-Guid": "{84F855E4-B200-4de6-A5CD-45329936B4EF}",
+            "name": "Putdeksel",
+            "label": {
+                "nl": "Putdeksel",
+                "es": "Tapa de alcantarilla"
+            },
+            "definition": {
+                "nl": "Een putdeksel is een deksel of luik van ondergrondse leidingen en installaties. Onder putdeksels vallen cirkelvormige (vrije) deksels met diameter gelegen tussen 65 en 100cm en vierkante (vrije) deksels (65cm <= zijde <= 100cm).",
+                "es": "Una tapa de registro es una tapa o escotilla para tuberías e instalaciones subterráneas. Las tapas de registro incluyen tapas circulares (libres) con un diámetro entre 65 y 100 cm y tapas cuadradas (libres) (65 cm <= lado <= 100 cm)."
+            },
+            "usage": {
+                "nl": "Bron definitie: GRB WRI: Putdeksel",
+                "es": "Definición de fuente: GRB WRI: tapa de alcantarilla"
+            }
+        },
+        {
+            "EA-Guid": "{914C66CF-E04B-4857-8B76-464C810F4CD3}",
+            "name": "Recyclagecontainer",
+            "label": {
+                "nl": "Recyclagecontainer",
+                "es": "Contenedor de reciclaje"
+            },
+            "definition": {
+                "nl": "Container voor het verzamelen van al dan niet specifiek materiaal met als doel het te sorteren, recycleren of hergebruiken.",
+                "es": "Contenedor para recoger material específico o no específico con el fin de clasificarlo, reciclarlo o reutilizarlo."
+            }
+        },
+        {
+            "EA-Guid": "{B7D08681-32CE-48cc-A0EC-7607AB91F195}",
+            "name": "Reddingsband",
+            "label": {
+                "nl": "Reddingsband",
+                "es": "salvavidas"
+            },
+            "definition": {
+                "nl": "Elk ringvormig object gemonteerd op een paal, in een kast of aan een haak bevestigd dat bedoeld is om toegeworpen te worden als reddingsmiddel naar personen die in water terecht gekomen zijn.",
+                "es": "Cualquier objeto en forma de anillo montado en un poste, en una caja o sujeto a un gancho que está destinado a ser arrojado como medio de rescate a personas que se han enredado en el agua."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletoptie water- en rioolbeheer - WPI27: Reddingsband",
+                "es": "Opción de esqueleto de gestión de agua y alcantarillado de GRB - WPI27: Lifeband"
+            }
+        },
+        {
+            "EA-Guid": "{94E2E58A-3FC6-4325-94CC-9138A4E106E5}",
+            "name": "Reflectorpaal",
+            "label": {
+                "nl": "Reflectorpaal",
+                "es": "Poste reflector"
+            },
+            "definition": {
+                "nl": "Een kunstoffen paal met reflector om het verkeer te geleiden.",
+                "es": "Un poste de plástico con reflector para guiar el tráfico."
+            }
+        },
+        {
+            "EA-Guid": "{45A4A8AC-D2EC-4309-8F33-76CF4ADF4A09}",
+            "name": "Rijbaankussen",
+            "label": {
+                "nl": "Rijbaankussen",
+                "es": "Cojín de calzada"
+            },
+            "definition": {
+                "nl": "Een verkeersremmer vervaardigd uit kunststof en strekt zich doorgaans niet uit over de volledige breedte van de rijbaan.",
+                "es": "Un freno de tráfico hecho de plástico y por lo general no se extiende por todo el ancho de la calzada."
+            },
+            "usage": {
+                "nl": "Naar wegcode (B.S. 31.05.2002) https://www.wegcode.be/wetteksten/secties/omzendbrieven/mo-03050230km/1164-omzendbrief. Anders dan de conventionele verhoogde inrichtingen die gereglementeerd zijn (KB 09-10-1998).",
+                "es": "Al código de circulación (B.S. 31.05.2002) https://www.wegcode.be/wetteksten/posities/omzendletters/mo-03050230km/1164-omzendbrief. A diferencia de los aparatos elevados convencionales que están regulados (RD 09-10-1998)."
+            }
+        },
+        {
+            "EA-Guid": "{D76203DC-0B63-4e7f-AC77-DCA9C691652C}",
+            "name": "Rooster",
+            "label": {
+                "nl": "Rooster",
+                "es": "Calendario"
+            },
+            "definition": {
+                "nl": "Een rooster is een civieltechnische constructie, anders dan gebouw, opgetrokken uit duurzame materialen, en zichtbaar aan het aardoppervlak.",
+                "es": "Una rejilla es una estructura de ingeniería civil, distinta de un edificio, hecha de materiales sostenibles y visible en la superficie de la tierra."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - KNW6: Rooster (afgeleid)",
+                "es": "A base GRB - KNW6: Cuadrícula (derivada)"
+            }
+        },
+        {
+            "EA-Guid": "{C74F6ABD-004D-4a2f-A8E1-168570250A6D}",
+            "name": "Schampblok",
+            "label": {
+                "nl": "Schampblok",
+                "es": "Bloque de pernos"
+            },
+            "definition": {
+                "nl": "Geprefabriceerde betonnen veiligheidsstootband met beperkte lengte, waarvan meestal een rij geplaatst wordt in longitudinale richting.",
+                "es": "Parachoques de seguridad prefabricado de hormigón de longitud limitada, normalmente colocado en fila en sentido longitudinal."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WVG verkeersgeleider",
+                "es": "Al detalle de reposición del esqueleto GRB - controlador de tráfico WVG"
+            }
+        },
+        {
+            "EA-Guid": "{3FBB243D-0E0A-478f-AB41-C5A3582E762E}",
+            "name": "Seininstallatie overgang spoorbedding",
+            "label": {
+                "nl": "Seininstallatie overgang spoorbedding",
+                "es": "Instalación de señalización cruzando lecho de vía"
+            },
+            "definition": {
+                "nl": "Installatie voor het regelen van de toegang tot een spoorwegovergang.",
+                "es": "Instalación para el control de acceso a un paso ferroviario."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI106: seininstallatie overgang spoorbedding NMBS en Wikidata (https://www.wikidata.org/wiki/Q8004)",
+                "es": "Al detalle de la adición del esqueleto GRB - WPI106: transición de la instalación de la señal del lecho ferroviario NMBS y Wikidata (https://www.wikidata.org/wiki/Q8004)"
+            }
+        },
+        {
+            "EA-Guid": "{B2F5B6C5-F90B-4dcf-BFEF-974D7015AD5A}",
+            "name": "Selectieve afsluiting",
+            "label": {
+                "nl": "Selectieve afsluiting",
+                "es": "Cierre selectivo"
+            },
+            "definition": {
+                "nl": "Op het terrein ondubbelzinnig aanwijsbare afsluiting die gebruikt kan worden om selectief en/of periodiek toegang te verlenen aan voertuigen, fietsers en/of voetgangers.",
+                "es": "Cercado inequívoco en el sitio que puede usarse para proporcionar acceso selectivo y/o periódico a vehículos, ciclistas y/o peatones."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting (afgeleid)",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - AFS: Cierre (derivado)"
+            }
+        },
+        {
+            "EA-Guid": "{317F7190-4AE5-48e6-A622-C4FBE6A8881E}",
+            "name": "Sensoropstelling",
+            "label": {
+                "nl": "Sensoropstelling",
+                "es": "Configuración de sensores"
+            },
+            "definition": {
+                "nl": "De gehele opstelling van een meettoestel, bedoeld om iets waar te nemen.",
+                "es": "La disposición completa de un dispositivo de medición, destinado a observar algo."
+            },
+            "usage": {
+                "nl": "De sensor zelf hoeft niet noodzakelijk aanwezig te zijn, bijvoorbeeld een flitspaal zonder een flitscamera. Naar GRB-skeletoptie water- en rioolbeheer - WRM3: Debietmeter; GRB Aanvullende steekkaarten - WPI28: Meteopaal; GRB-skeletoptie wegbeheer - WDL: Detectielus (afgeleid).",
+                "es": "El sensor en sí no necesariamente tiene que estar presente, por ejemplo, una cámara de velocidad sin cámara de velocidad. A GRB esqueleto opción gestión de agua y alcantarillado - WRM3: Caudalímetro; Fichas complementarias de GRB - WPI28: Meteopal; Opción de esqueleto de gestión vial GRB - WDL: Bucle de detección (derivado)."
+            }
+        },
+        {
+            "EA-Guid": "{378D751F-68C2-4a9c-ADD8-F0CB1256109C}",
+            "name": "Signalisatie",
+            "label": {
+                "nl": "Signalisatie",
+                "es": "Señalización"
+            },
+            "definition": {
+                "nl": "Elementen langsheen wegen en waterlopen ter orientatie van het verkeer. ",
+                "es": "Elementos a lo largo de caminos y cursos de agua para orientar el tráfico."
+            },
+            "usage": {
+                "nl": "Bijvoorbeeld reflectorpaaltjes, palen voor verkeersborden, wegwijzers, plaatsnaamborden, straatnaambord, bord bebouwde kom, signalisatiepalen openbaar vervoer. Naar GRB-skeletoptie water- en rioolbeheer - WRS1: Signalisatie scheepvaart elektrisch; WRS2: Signalisatie scheepvaart niet-elektrisch (afgeleid).",
+                "es": "Por ejemplo, postes reflectores, postes para señales de tráfico, postes indicadores, letreros de nombres de lugares, letreros de nombres de calles, letreros de áreas urbanizadas, postes de señalización para transporte público. A la opción de esqueleto GRB Gestión de agua y aguas residuales - WRS1: Señalización eléctrica de envío; WRS2: Señalización marina no eléctrica (derivada)."
+            }
+        },
+        {
+            "EA-Guid": "{D0DDA235-9B9E-4168-8796-EC0D54A695AB}",
+            "name": "Signalisatie en leidingenportiek",
+            "label": {
+                "nl": "Signalisatie en leidingenportiek",
+                "es": "Pórtico de señalización y canalización"
+            },
+            "definition": {
+                "nl": "Elke overspanning van een gedeelte van de wegbaan, watergang of spoorbaan waarbij ofwel signalisatieborden werden aangebracht ofwel gebruikt ter overbrugging van de wegbaan, watergang of spoorbaan voor leidingen",
+                "es": "Cualquier tramo de una parte de la carretera, vía fluvial o vía férrea donde se hayan instalado paneles de señalización o se hayan utilizado como puente para tuberías en la carretera, vía fluvial o vía férrea."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WSM2: Signalisatie- en leidingenportiek ",
+                "es": "Al detalle de reposición del esqueleto GRB - WSM2: Pórtico de señalización y tubería"
+            }
+        },
+        {
+            "EA-Guid": "{08E7FCCC-4F81-4f0a-A37A-A752A286A929}",
+            "name": "Signalisatie scheepvaart",
+            "label": {
+                "nl": "Signalisatie scheepvaart",
+                "es": "Envío de señalización"
+            },
+            "definition": {
+                "nl": "Paalvormige en duurzame verankering van signalisatie langsheen een waterloop ter oriëntatie van het scheepvaartverkeer.",
+                "es": "Anclaje en forma de poste y duradero de señalización a lo largo de un curso de agua para orientar el tráfico marítimo."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletoptie water- en rioolbeheer - WRS1: Signalisatie scheepvaart elektrisch; WRS2: Signalisatie scheepvaart niet-elektrisch (afgeleid)",
+                "es": "A la opción de esqueleto GRB Gestión de agua y aguas residuales - WRS1: Señalización eléctrica de envío; WRS2: señalización marina no eléctrica (derivada)"
+            }
+        },
+        {
+            "EA-Guid": "{B025C8C6-8AB6-4110-A196-805CE3A83C1F}",
+            "name": "Signalisatie scheepvaart elektrisch",
+            "label": {
+                "nl": "Signalisatie scheepvaart elektrisch",
+                "es": "Señalización marítima eléctrica"
+            },
+            "definition": {
+                "nl": "Paalvormige en duurzame verankering van signalisatie langsheen een waterloop ter oriëntatie van het scheepvaartverkeer of de bediening ervan die beschikken over een inwendige verlichting, lichten, elektrische ogen en radarscanners.",
+                "es": "Anclaje de señalización en forma de poste y duradero a lo largo de un curso de agua para la orientación del tráfico marítimo o su operación, que cuenten con iluminación interna, luces, ojos eléctricos y escáneres de radar."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletoptie water- en rioolbeheer - WRS1: Signalisatie scheepvaart elektrisch",
+                "es": "Para la gestión de agua y aguas residuales de la opción de esqueleto GRB - WRS1: Señalización eléctrica de envío"
+            }
+        },
+        {
+            "EA-Guid": "{D07398FA-7C75-4d19-B104-D1F533A703C6}",
+            "name": "Signalisatie scheepvaart niet-elektrisch",
+            "label": {
+                "nl": "Signalisatie scheepvaart niet-elektrisch",
+                "es": "Señalización de envío no eléctrica"
+            },
+            "definition": {
+                "nl": "Paalvormige en duurzame verankering van signalisatie langsheen een waterloop ter oriëntatie van het scheepvaartverkeer bvb. verboden te ankeren, VHF-kanaal aanduiding,...",
+                "es": "Anclaje duradero y en forma de poste de señalización a lo largo de un curso de agua para orientar el tráfico marítimo, p. sin fondeo, indicación de canal VHF,..."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletoptie water- en rioolbeheer - WRS2: Signalisatie scheepvaart niet-elektrisch",
+                "es": "A GRB esqueleto opción gestión de agua y alcantarillado - WRS2: Señalización de envío no eléctrico"
+            }
+        },
+        {
+            "EA-Guid": "{DBBB29DE-8BE3-4eea-BAF9-056B2F07B175}",
+            "name": "Silo",
+            "label": {
+                "nl": "Silo",
+                "es": "Silo"
+            },
+            "definition": {
+                "nl": "Een silo of een opslagtank is een grote zichtbare installatie opgetrokken uit duurzame materialen voor opslag en verwerking van bulkmaterialen.",
+                "es": "Un silo o tanque de almacenamiento es una gran instalación visible construida con materiales sostenibles para el almacenamiento y procesamiento de materiales a granel."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - KNW9: Silo, opslagtank",
+                "es": "A base GRB - KNW9: Silo, tanque de almacenamiento"
+            }
+        },
+        {
+            "EA-Guid": "{3CDE04E5-5923-4039-995A-5BB46621FAB2}",
+            "name": "Slagboom",
+            "label": {
+                "nl": "Slagboom",
+                "es": "Barrera"
+            },
+            "definition": {
+                "nl": "Een afsluitingsmechanisme met slagboomarmen dat dient om controle uit te kunnen oefenen over het gebruik van een doorgang of een toegang.",
+                "es": "Un mecanismo de cierre de brazo de barrera utilizado para controlar el uso de un pasaje o acceso."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WSB: Slagboom ",
+                "es": "Al detalle de reposición del esqueleto GRB - WSB: Barrera"
+            }
+        },
+        {
+            "EA-Guid": "{A2B1DD7A-65B2-47cf-A4FA-A425061987E5}",
+            "name": "Afsluiting spandraad en -ketting",
+            "label": {
+                "nl": "Afsluiting spandraad en -ketting",
+                "es": "Cable de tensión y cierre de cadena."
+            },
+            "definition": {
+                "nl": "Op het terrein ondubbelzinnig aanwijsbare en permanent verankerde scheiding, bestaande uit spandraad en/of kettingen.",
+                "es": "Separación inequívocamente demostrable y anclada permanentemente en el sitio, consistente en alambre de tensión y/o cadenas."
+            },
+            "usage": {
+                "nl": "Verschilt van een draadafsluiting. Naar GRB-skeletaanvulling detail - AFS: Afsluiting - Spandraad en -ketting.",
+                "es": "Difiere de una terminación de cable. A GRB Skeleton Reabastecimiento Detalle - AFS: Barrera - Cable y Cadena de Tensión."
+            }
+        },
+        {
+            "EA-Guid": "{0A5C9C6B-44D7-4434-8B7C-86A9FFF35556}",
+            "name": "Speel- en sportvoorziening",
+            "label": {
+                "nl": "Speel- en sportvoorziening",
+                "es": "Instalaciones lúdicas y deportivas"
+            },
+            "definition": {
+                "nl": "Element op het terrein ontworpen of kennelijk bestemd om te spelen of te sporten",
+                "es": "Elemento diseñado in situ o aparentemente destinado al juego o al deporte"
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletoptie groen- en begraafplaatsenbeheer - PRA: Park- of recreatieattribuut; PRC: Functiecode park- of recreatieattribuut",
+                "es": "A GRB verde y opción de esqueleto de gestión de cementerios - PRA: Atributo de parque o recreación; PRC: código de función de atributo de parque o recreación"
+            }
+        },
+        {
+            "EA-Guid": "{13A87D0E-8857-47e3-9462-C751596A120C}",
+            "name": "Spuitkop",
+            "label": {
+                "nl": "Spuitkop",
+                "es": "Boquilla"
+            },
+            "definition": {
+                "nl": "Een watervoorziening met een visuele functie, bijvoorbeeld op een stadplein, of voor de bewatering van grasperken, sportgazons...",
+                "es": "Un suministro de agua con una función visual, por ejemplo en una plaza de la ciudad, o para regar céspedes, campos deportivos..."
+            }
+        },
+        {
+            "EA-Guid": "{69DFCCA4-4913-44a4-95C6-F55B45041CE8}",
+            "name": "Statische wegmonoliet",
+            "label": {
+                "nl": "Statische wegmonoliet",
+                "es": "Monolito vial estático"
+            },
+            "definition": {
+                "nl": "Een niet-verzinkbaar massief obstakel dat de doorgang van voertuigen belet.",
+                "es": "Obstáculo macizo no empotrado que impide el paso de vehículos."
+            },
+            "usage": {
+                "nl": "Bijvoorbeeld Amsterdammers. Naar GRB-skeletaanvulling detail - WPI14: Wegmonoliet.",
+                "es": "Por ejemplo los amsterdameses. A GRB Esqueleto Detalle de Reposición - WPI14: Monolito de Carretera."
+            }
+        },
+        {
+            "EA-Guid": "{F594BFD7-52D5-4b11-A0A7-8C2C45F0B8CC}",
+            "name": "Stootband",
+            "label": {
+                "nl": "Stootband",
+                "es": "parachoque"
+            },
+            "definition": {
+                "nl": "Vaste inrichtingselementen binnen de wegbaan (WBN) met als doel de normale verkeersstromen in gescheiden stroken te leiden. Deze zijn overwegend parallel aan de hartlijn van de wegbaan georiënteerd. Een stootband is een geprefabriceerde betonnen veiligheidsband die over haar gehele lengte op de bodem rust en geplaatst werd om te voorkomen dat voertuigen van de weg afraken.",
+                "es": "Elementos de diseño fijo dentro de la calzada (WBN) con el objetivo de dirigir los flujos de tráfico normales en carriles separados. Estos están orientados principalmente paralelos a la línea central de la calzada. Un tope es un cinturón de seguridad prefabricado de hormigón que se apoya en el suelo en toda su longitud y se coloca para evitar que los vehículos se salgan de la calzada."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - WLI2: Muur / stootband",
+                "es": "A la base GRB - WLI2: Pared / parachoques"
+            }
+        },
+        {
+            "EA-Guid": "{A02B5E90-08FA-4d66-8B01-59F4DC3C69CE}",
+            "name": "Stootband dupuis",
+            "label": {
+                "nl": "Stootband dupuis",
+                "es": "Dupuis de parachoques"
+            },
+            "definition": {
+                "nl": "Geprefabriceerde betonnen veiligheidsstootband die over haar gehele lengte op de bodem rust en geplaatst werd om te voorkomen dat voertuigen van de weg afgeraken. Deze zijn overwegend parallel aan de hartlijn van de wegbaan georiënteerd.",
+                "es": "Parachoques de seguridad prefabricado de hormigón que se apoya en la parte inferior en toda su longitud y se coloca para evitar que los vehículos se salgan de la calzada. Estos están orientados principalmente paralelos a la línea central de la calzada."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WLI11: Stootband type 'dupuis'",
+                "es": "Al detalle del suplemento del esqueleto GRB - WLI11: Bump strap tipo 'dupuis'"
+            }
+        },
+        {
+            "EA-Guid": "{526D3B99-9779-4a49-AD30-A623E36EC2E1}",
+            "name": "Stootband new jersey",
+            "label": {
+                "nl": "Stootband new jersey",
+                "es": "Bump strap nueva jersey"
+            },
+            "definition": {
+                "nl": "Ter plaatse vervaardigde hoge (0,60 tot 1,00m) betonnen veiligheidsstootband die over haar gehele lengte op de bodem rust. Deze zijn overwegend parallel aan de hartlijn van de wegbaan georiënteerd.",
+                "es": "Tope de seguridad de hormigón de gran altura (0,60 a 1,00 m) fabricado en obra, apoyado sobre el fondo en toda su longitud. Estos están orientados principalmente paralelos a la línea central de la calzada."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WLI12: Stootband type 'new jersey'",
+                "es": "Al detalle de la adición del esqueleto GRB - WLI12: Bump strap tipo 'new jersey'"
+            }
+        },
+        {
+            "EA-Guid": "{3280192E-DB1C-4e0a-A904-486104357903}",
+            "name": "Straatkap",
+            "label": {
+                "nl": "Straatkap",
+                "es": "Campana de calle"
+            },
+            "definition": {
+                "nl": "Elke straatkap of deksel in beton, pvc, polyester of gietijzer die een leiding aanduidt. Een zichtbare straatkap is een merkteken of deksel dat zich in het vlak van de wegbaan bevindt (bv. luiken en deksels communicatieleidingen, waterleiding,...).",
+                "es": "Cualquier capota o tapadera de calle en hormigón, PVC, poliéster o hierro fundido que señale una tubería. Una tapa de calle visible es una marca o cubierta que se ubica en el plano de la calzada (por ejemplo, persianas y cubiertas para tuberías de comunicación, tuberías de agua,...)."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI17: Zichtbare straatkap gelijkgronds; WPI18: Zichtbare straatkap bovengronds",
+                "es": "Al detalle de la adición del esqueleto GRB - WPI17: Remate de calle visible a nivel del suelo; WPI18: Tapa de calle visible sobre el suelo"
+            }
+        },
+        {
+            "EA-Guid": "{0BD2849F-3241-43fe-9F66-C397CAB27F9D}",
+            "name": "Straatkolk",
+            "label": {
+                "nl": "Straatkolk",
+                "es": "barranco estrecho"
+            },
+            "definition": {
+                "nl": "De hemelwaterinlaatconstructie, meestal geplaatst in de straatgoot of watergreppel, waarlangs het hemelwater van de verhardingen wordt afgevoerd.",
+                "es": "La construcción de toma de agua de lluvia, generalmente colocada en el canal de la calle o zanja de agua, a lo largo de la cual se drena el agua de lluvia de las aceras."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI9: Straatkolk",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - WPI9: Strait Gully"
+            }
+        },
+        {
+            "EA-Guid": "{3A18D60B-AA86-4805-AF35-807DC773C178}",
+            "name": "Straatmeubilair",
+            "label": {
+                "nl": "Straatmeubilair",
+                "es": "mobiliario urbano"
+            },
+            "definition": {
+                "nl": "Straatmeubilair is  een diverse groep van objecten die in het algemeen in de openbare ruimte staan (zowel corridor- als surplusgebied).",
+                "es": "El mobiliario urbano es un grupo heterogéneo de objetos que se ubican generalmente en el espacio público (tanto de pasillo como de zonas sobrantes)."
+            }
+        },
+        {
+            "EA-Guid": "{A3048705-85E9-473d-BF1A-DFA780A1F463}",
+            "name": "Straatspiegel",
+            "label": {
+                "nl": "Straatspiegel",
+                "es": "espejo de calle"
+            },
+            "definition": {
+                "nl": "(Meestal) bolvormig reflecterend voorwerp, specifiek geplaatst ten behoeve van de verkeersveiligheid.",
+                "es": "(Por lo general) objeto reflectante esférico, colocado específicamente para la seguridad vial."
+            }
+        },
+        {
+            "EA-Guid": "{45DCFF8B-55B6-43fe-8FA7-7A88D8B0B445}",
+            "name": "TV-mast",
+            "label": {
+                "nl": "TV-mast",
+                "es": "mástil de televisión"
+            },
+            "definition": {
+                "nl": "Een TV-mast is een kunstwerk bedoeld voor de distributie van TV-signalen.",
+                "es": "Un mástil de TV es una obra de arte destinada a la distribución de señales de TV."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - KNW4: Hoogspanningsmast/TV-mast",
+                "es": "A la base GRB - KNW4: Torre de alta tensión/torre de TV"
+            }
+        },
+        {
+            "EA-Guid": "{E630D871-7CF5-45f7-B85F-2F132BC98776}",
+            "name": "Telefoonpaal",
+            "label": {
+                "nl": "Telefoonpaal",
+                "es": "Poste de teléfono"
+            },
+            "definition": {
+                "nl": "Paal van de telefoonleiding.",
+                "es": "Poste de la línea telefónica."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI1: Paal",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - WPI1: Poste"
+            }
+        },
+        {
+            "EA-Guid": "{B987B621-0B22-4107-8828-1BEE5F6A38F3}",
+            "name": "Toegangspoort",
+            "label": {
+                "nl": "Toegangspoort",
+                "es": "Portón de entrada"
+            },
+            "definition": {
+                "nl": "Een object dat de toegang tot een gebied, zone of terreindeel periodiek kan afsluiten.",
+                "es": "Un objeto que puede cerrar periódicamente el acceso a un área, zona o parte del sitio."
+            },
+            "usage": {
+                "nl": "Gerelateerd aan object: GRB WSP: Scharnierpunt hek/poort ",
+                "es": "Relacionado con el objeto: GRB WSP: punto de bisagra de puerta"
+            }
+        },
+        {
+            "EA-Guid": "{0B1504BF-3F18-45f1-BFB3-E0D2BDB0A4E7}",
+            "name": "Tractorsluis",
+            "label": {
+                "nl": "Tractorsluis",
+                "es": "Bloqueo de tractores"
+            },
+            "definition": {
+                "nl": "\tEen vast inrichtingselement binnen de zone voor snelverkeer van de wegbaan met als doel slechts bepaalde types voertuigen door te laten (c.q. tractoren",
+                "es": "Elemento fijo de instalación dentro de la zona de circulación rápida de la calzada con el fin de permitir el paso únicamente a determinados tipos de vehículos (o tractores"
+            }
+        },
+        {
+            "EA-Guid": "{5CF0A8C7-8047-42d9-8250-7C926833A698}",
+            "name": "Transversale weginrichting",
+            "label": {
+                "nl": "Transversale weginrichting",
+                "es": "diseño de carreteras transversales"
+            },
+            "definition": {
+                "nl": "Een vast inrichtingselement binnen de zone voor snelverkeer met als doel de normale verkeersstroom te remmen of te compartimenteren. Deze inrichtingselementen zijn overwegend dwars op de lengteas van de wegbaan georiënteerd.",
+                "es": "Elemento de instalación fija dentro de la zona de tráfico rápido con el objeto de ralentizar o compartimentar el flujo normal de tráfico. Estos elementos de diseño están orientados principalmente de forma transversal al eje longitudinal de la calzada."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - WTI: Transversale weginrichting",
+                "es": "A GRB base - WTI: Trazado de vialidad transversal"
+            }
+        },
+        {
+            "EA-Guid": "{525C662E-BC33-4c90-B668-DD038F7CE783}",
+            "name": "Treinbiels",
+            "label": {
+                "nl": "Treinbiels",
+                "es": "Traviesas de tren"
+            },
+            "definition": {
+                "nl": "Afsluiting bestaande uit dwarsliggers die oorspronkelijk een onderdeel zijn van de bovenbouw van een spoorweg om de spoorstaven te dragen en houden de beide spoorstaven in de gewenste spoorwijdte uit elkaar. ",
+                "es": "Cerca que consta de traviesas que originalmente forman parte de la superestructura de un ferrocarril para soportar los rieles y mantener los dos rieles separados en el ancho de vía deseado."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting - horizontale en verticale treinbils en Wikidata (https://www.wikidata.org/wiki/Q220229)",
+                "es": "Detalle de la adición del esqueleto GRB - AFS: Cierre - glúteos del tren horizontal y vertical y Wikidata (https://www.wikidata.org/wiki/Q220229)"
+            }
+        },
+        {
+            "EA-Guid": "{2EA7ED28-BF37-4640-AD7D-8385C47B9D23}",
+            "name": "Vangrail",
+            "label": {
+                "nl": "Vangrail",
+                "es": "Barandilla"
+            },
+            "definition": {
+                "nl": "Een vangrail is een constructie-element bestaande uit metalen stroken voor de scheiding en beveiliging van diverse soorten weggebruikers, voornamelijk langs de berm van wegen.",
+                "es": "Una barrera de seguridad es un elemento de construcción que consiste en bandas metálicas para la separación y protección de varios tipos de usuarios de la vía, principalmente a lo largo de los bordes de las vías."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - WLI3: Vangrail",
+                "es": "A la base GRB - WLI3: Barandilla"
+            }
+        },
+        {
+            "EA-Guid": "{04DE90A2-86F8-4740-A3B2-546BB6E8F2B4}",
+            "name": "Veerooster",
+            "label": {
+                "nl": "Veerooster",
+                "es": "Horario de ganadería"
+            },
+            "definition": {
+                "nl": "Een veerooster is een infrastructurele voorziening die is aangebracht in het wegdek om te voorkomen dat vee een gebied binnenkomt of verlaat.",
+                "es": "Una rejilla para ganado es un dispositivo de infraestructura construido en la superficie de la carretera para evitar que el ganado entre o salga de un área."
+            },
+            "usage": {
+                "nl": "Naar Wikidata (https://www.wikidata.org/wiki/Q2164694)",
+                "es": "A Wikidata (https://www.wikidata.org/wiki/Q2164694)"
+            }
+        },
+        {
+            "EA-Guid": "{23301ED2-76E9-4740-85BB-F349DC9284EA}",
+            "name": "Veiligheidsband",
+            "label": {
+                "nl": "Veiligheidsband",
+                "es": "Cinturón de seguridad"
+            },
+            "definition": {
+                "nl": "Geprefabriceerde lage betonnen veiligheidsstootband die over haar gehele lengte op de bodem rust. Deze zijn overwegend parallel aan de hartlijn van de wegbaan georiënteerd.",
+                "es": "Parachoques de seguridad prefabricado bajo de hormigón que se apoya en el fondo en toda su longitud. Estos están orientados principalmente paralelos a la línea central de la calzada."
+            },
+            "usage": {
+                "nl": "Bron object: GRB WLI13: Stootband type 'veiligheidsband'",
+                "es": "Objeto de origen: GRB WLI13: parachoques tipo 'cinturón de seguridad'"
+            }
+        },
+        {
+            "EA-Guid": "{63293FCA-CF77-4221-83CA-A4ACA5B21805}",
+            "name": "Verkeersbord",
+            "label": {
+                "nl": "Verkeersbord",
+                "es": "Señal de tráfico"
+            },
+            "definition": {
+                "nl": "Wegsignalisatie aangebracht op een element op het openbaar domein (paal, gevel, portiek ...) om het verkeer op de openbare weg te regelen en die geen verkeerslicht zijn.",
+                "es": "Señalización vial aplicada a un elemento del dominio público (poste, fachada, pórtico, etc.) para controlar el tráfico en vías públicas que no sean semáforos."
+            },
+            "usage": {
+                "nl": "Verkeersborden kunnen al dan niet statisch of dynamisch zijn en al dan niet elektronisch. Tot de verkeersborden horen niet de verkeerslichten (signalisatie voor het oprijden van gelijkvloerse kruisingen, toegangen en dergelijke). Naar Wikidata (https://www.wikidata.org/wiki/Q170285).",
+                "es": "Las señales de tránsito pueden o no ser estáticas o dinámicas y pueden o no ser electrónicas. Las señales de tráfico no incluyen los semáforos (señales de entrada a pasos a nivel, entradas y similares). A Wikidata (https://www.wikidata.org/wiki/Q170285)."
+            }
+        },
+        {
+            "EA-Guid": "{E85600C9-2338-49a5-ABC4-C6AA903BFB7E}",
+            "name": "Verkeersdrempel",
+            "label": {
+                "nl": "Verkeersdrempel",
+                "es": "bache de velocidad"
+            },
+            "definition": {
+                "nl": "Een verhoogde verkeersdrempel is een vast inrichtingselement binnen de zone voor snelverkeer van de wegbaan met als doel de normale verkeersstroom te remmen of te compartimenteren. Een verhoogde verkeersdrempel is een transversaal inrichtingselement dat overwegend dwars op de hartlijn van de wegbaan georiënteerd is.",
+                "es": "Un badén elevado es un elemento de instalación fija dentro de la zona de tránsito rápido de la calzada con el propósito de ralentizar o compartimentar el flujo normal del tránsito. Un badén elevado es un elemento de diseño transversal que se orienta principalmente transversalmente a la línea central de la calzada."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - WTI1: Verhoogde verkeersdrempel",
+                "es": "A la base GRB - WTI1: Aumento de los topes de velocidad"
+            }
+        },
+        {
+            "EA-Guid": "{3B4FA76C-26CC-4d75-ADCD-5C936FEFE798}",
+            "name": "Verkeerslicht",
+            "label": {
+                "nl": "Verkeerslicht",
+                "es": "Semáforo"
+            },
+            "definition": {
+                "nl": "Wegsignalisatie dat met behulp van lichtsignalen het regelen van het oprijden van onder andere een gelijkvloerse kruising, de toegang tot bruggen, tunnels en spoorwegovergangen, de toegang tot parkeergarages en -terreinen.",
+                "es": "Señalización vial que mediante señales luminosas regula la entrada a, entre otros, un paso a nivel, el acceso a puentes, túneles y pasos a nivel, y el acceso a aparcamientos y zonas."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI1: Paal; WPI107 verkeerslicht; WPI108 verkeerslicht overhangend en Wikidata (https://www.wikidata.org/wiki/Q8004)",
+                "es": "Al detalle de reposición del esqueleto GRB - WPI1: Poste; semáforo WPI107; Voladizo de semáforo WPI108 y Wikidata (https://www.wikidata.org/wiki/Q8004)"
+            }
+        },
+        {
+            "EA-Guid": "{A6913CA6-F04F-4697-A752-331C1E33242F}",
+            "name": "Verkeerslicht voetganger fietser",
+            "label": {
+                "nl": "Verkeerslicht voetganger fietser",
+                "es": "Semáforo peatón ciclista"
+            },
+            "definition": {
+                "nl": "Wegsignalisatie dat met behulp van lichtsignalen het regelen voor zwakke weggebruikers (onder andere voetgangers en fietsers) van het oprijden van onder andere een gelijkvloerse kruising, de toegang tot bruggen, tunnels en spoorwegovergangen, de toegang tot parkeergarages en -terreinen.",
+                "es": "Señalización vial que mediante señales luminosas regula para los usuarios vulnerables de la vía (incluidos peatones y ciclistas) la entrada a, entre otros, un paso a nivel, el acceso a puentes, túneles y pasos a nivel, y el acceso a aparcamientos y zonas."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI1: Paal; WPI109 verkeerslicht voetganger/fietser en Wikidata (https://www.wikidata.org/wiki/Q8004)",
+                "es": "Al detalle de reposición del esqueleto GRB - WPI1: Poste; WPI109 semáforo para peatones/ciclistas y Wikidata (https://www.wikidata.org/wiki/Q8004)"
+            }
+        },
+        {
+            "EA-Guid": "{DA2499AF-94BE-43c9-9998-EED6341EF81C}",
+            "name": "Verlichtingspaal",
+            "label": {
+                "nl": "Verlichtingspaal",
+                "es": "Poste de luz"
+            },
+            "definition": {
+                "nl": "Een openbare lichtpunt op een paal dat gebruikt wordt om de omgeving te verlichten. ",
+                "es": "Un punto de luz pública en un poste que se utiliza para iluminar el área circundante."
+            },
+            "usage": {
+                "nl": "Geen lichtpunt (beperkte hoogte). Naar GRB-skeletaanvulling detail - WPI1: Paal; WPI102 verlichting",
+                "es": "Sin punto de luz (altura limitada). Al detalle de reposición del esqueleto GRB - WPI1: Poste; Iluminación WPI102"
+            }
+        },
+        {
+            "EA-Guid": "{79EAFA5B-8580-4832-8AD4-949D7511F837}",
+            "name": "Verluchtingsrooster",
+            "label": {
+                "nl": "Verluchtingsrooster",
+                "es": "Rejilla de ventilación"
+            },
+            "definition": {
+                "nl": "Een rooster is een civieltechnische constructie, anders dan gebouw, opgetrokken uit duurzame materialen, en zichtbaar aan het aardoppervlak bedoeld voor de ventilatie van ondergrondse ruimtes.\t",
+                "es": "Una rejilla es una construcción de ingeniería civil, distinta de un edificio, hecha de materiales duraderos y visible en la superficie de la tierra, destinada a la ventilación de espacios subterráneos."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - KNW6: Rooster",
+                "es": "A base GRB - KNW6: Cuadrícula"
+            }
+        },
+        {
+            "EA-Guid": "{20E3FF44-F025-4586-AD62-2E5F85054EC5}",
+            "name": "Verzinkbare wegmonoliet",
+            "label": {
+                "nl": "Verzinkbare wegmonoliet",
+                "es": "Monolito vial galvanizado"
+            },
+            "definition": {
+                "nl": "Een verzinkbaar massief obstakel dat de doorgang van voertuigen belet.",
+                "es": "Obstáculo macizo retráctil que impide el paso de vehículos."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI14: Wegmonoliet (afgeleid).",
+                "es": "A GRB Skeleton Reabastecimiento Detalle - WPI14: Road Monolith (Derived)."
+            }
+        },
+        {
+            "EA-Guid": "{B9521F51-3F66-4e70-A5A4-BEF1507C491A}",
+            "name": "Vlaggenpaal",
+            "label": {
+                "nl": "Vlaggenpaal",
+                "es": "Asta de bandera"
+            },
+            "definition": {
+                "nl": "Paal, permanent en duurzaam verankerd met de bodem en opgericht voor het bevestigen en hijsen van vlaggen.",
+                "es": "Poste, anclado al suelo de forma permanente y duradera y erigido para la fijación y el izamiento de banderas."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI24: Vlaggenpaal ",
+                "es": "Al detalle de reposición del esqueleto GRB - WPI24: asta de bandera"
+            }
+        },
+        {
+            "EA-Guid": "{E73740F8-265A-4b7a-9223-D523FAE686C1}",
+            "name": "Vlakvormige wegmarkering",
+            "label": {
+                "nl": "Vlakvormige wegmarkering",
+                "es": "Señalización vial plana"
+            },
+            "definition": {
+                "nl": "Vlakvormige schilderingen aangebracht op het verhard gedeelte van de wegbaan of kleurveranderingen van de verharding die een onderdeel vormen van de verkeerswetgeving.",
+                "es": "Pinturas planas aplicadas en la parte pavimentada de la calzada o cambios de color del pavimento que forman parte de la legislación de circulación."
+            },
+            "usage": {
+                "nl": "Types vlakvormige wegmarkering: verkeersgeleiders, verdrijvingsvlakken, zebrapad, oversteekplaats voor fietsers, fietssuggestiestrook,... Naar GRB-skeletoptie wegbeheer - WEM3: Vlakvormige wegmarkering.",
+                "es": "Tipos de señalización vial plana: controladores de tráfico, superficies de dispersión, paso de cebra, paso para ciclistas, carril bici,... A GRB esqueleto opción gestión vial - WEM3: Señalización vial plana."
+            }
+        },
+        {
+            "EA-Guid": "{8485FE92-0A48-4e04-B551-C7CC8B02D9C9}",
+            "name": "Waterpunt",
+            "label": {
+                "nl": "Waterpunt",
+                "es": "punto de agua"
+            },
+            "definition": {
+                "nl": "Een voorziening waar water kan bekomen worden, bijvoorbeeld door middel van een pomp, kraan, ...",
+                "es": "Una instalación donde se puede obtener agua, por ejemplo mediante una bomba, grifo,..."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletoptie groen- en begraafplaatsenbeheer - WPT: Waterpunt",
+                "es": "Opción esqueleto GRB gestión verde y cementerio - WPT: Punto de Agua"
+            }
+        },
+        {
+            "EA-Guid": "{97ED7AFE-1C8C-4f9a-BAFF-873D14378146}",
+            "name": "Weginrichtingselement",
+            "label": {
+                "nl": "Weginrichtingselement",
+                "es": "elemento de diseño de carretera"
+            },
+            "definition": {
+                "nl": "Een ruimtelijk object dat dient voor de inrichting van de openbare weg om het verkeer fysiek te sturen.",
+                "es": "Un objeto espacial que sirve para el diseño de la vía pública con el fin de dirigir físicamente el tráfico."
+            }
+        },
+        {
+            "EA-Guid": "{4DE4721F-9E59-4b71-8B75-A53E703D987D}",
+            "name": "Wegmarkering",
+            "label": {
+                "nl": "Wegmarkering",
+                "es": "Señalización vial"
+            },
+            "definition": {
+                "nl": "Schilderingen aangebracht op het verhard gedeelte van de wegbaan of kleurveranderingen van de verharding die een onderdeel vormen van de verkeerswetgeving.",
+                "es": "Pinturas aplicadas en la parte pavimentada de la calzada o cambios de color del pavimento que forman parte de la legislación de tránsito."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletoptie wegbeheer - WEM1: Puntvormige wegmarkering; WEM2: Lijnvormige wegmarkering; WEM3: Vlakvormige wegmarkering ",
+                "es": "A la opción de esqueleto de gestión vial GRB - WEM1: Señalización vial puntiaguda; WEM2: Señalización vial lineal; WEM3: señalización vial plana"
+            }
+        },
+        {
+            "EA-Guid": "{C3CF0693-00E4-4587-972B-F1B33C8A260E}",
+            "name": "Wegmonoliet",
+            "label": {
+                "nl": "Wegmonoliet",
+                "es": "monolito de carretera"
+            },
+            "definition": {
+                "nl": "Een massief obstakel dat de doorgang van voertuigen belet.",
+                "es": "Un obstáculo masivo que impide el paso de vehículos."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - WPI14: Wegmonoliet.",
+                "es": "A GRB Esqueleto Detalle de Reposición - WPI14: Monolito de Carretera."
+            }
+        },
+        {
+            "EA-Guid": "{A1DCAFDA-FEEC-49e7-9C70-8A30772E8ED0}",
+            "name": "Wegneembare wegmonoliet",
+            "label": {
+                "nl": "Wegneembare wegmonoliet",
+                "es": "Monolito de carretera desmontable"
+            },
+            "definition": {
+                "nl": "Een wegneembaar obstakel dat de doorgang van voertuigen belet en niet dynamisch is in aard.",
+                "es": "Obstáculo desmontable que impide el paso de vehículos y no es de carácter dinámico."
+            },
+            "usage": {
+                "nl": "Enkel manueel verwijderbaar. Naar GRB-skeletaanvulling detail - WPI14: Wegmonoliet (afgeleid).",
+                "es": "Solo se puede eliminar manualmente. A GRB Skeleton Reabastecimiento Detalle - WPI14: Road Monolith (Derived)."
+            }
+        },
+        {
+            "EA-Guid": "{8DC8FDBC-4F97-4c3d-8789-1A46297EB331}",
+            "name": "Wegsignalisatie",
+            "label": {
+                "nl": "Wegsignalisatie",
+                "es": "señalización vial"
+            },
+            "definition": {
+                "nl": "Alle elementen aangebracht ten behoeve van de weggebruiker, bijvoorbeeld: reflectorpaaltjes, palen voor verkeersborden, wegwijzers, plaatsnaamborden, straatnaambord, bord bebouwde kom, signalisatiepalen openbaar vervoer.",
+                "es": "Todos los elementos instalados en beneficio del usuario de la vía, por ejemplo: postes reflectores, postes para señales de tránsito, postes indicadores, letreros de nombres de lugares, letreros de nombres de calles, letreros de áreas urbanizadas, postes de señalización de transporte público."
+            }
+        },
+        {
+            "EA-Guid": "{4411EF2C-C350-4b23-97F3-59FB1EFFBC82}",
+            "name": "Windturbine",
+            "label": {
+                "nl": "Windturbine",
+                "es": "Turbina eólica"
+            },
+            "definition": {
+                "nl": "Een burgerlijke constructie die gebruikt wordt voor de opwekking van elektriciteit.",
+                "es": "Una construcción civil utilizada para la generación de electricidad."
+            },
+            "usage": {
+                "nl": "Naar GRB-skeletaanvulling detail - KNW14: Nutspaal",
+                "es": "Al detalle de la adición del esqueleto GRB - KNW14: poste de servicios públicos"
+            }
+        },
+        {
+            "EA-Guid": "{332340E2-DAF5-4585-A6D5-D68FFA2EEF21}",
+            "name": "Zichtbaar deksel of luik",
+            "label": {
+                "nl": "Zichtbaar deksel of luik",
+                "es": "Tapa o escotilla visible"
+            },
+            "definition": {
+                "nl": "Een zichtbaar deksel of luik is een merkteken dat zich in het vlak van de wegbaan bevindt. Het gaat om rechthoekige en veelhoekige luiken waarvan de zijde groter is dan 1,00m en cirkelvormige of vierkante deksels en luiken waarvan de zijde of diameter groter is dan 1,00m.",
+                "es": "Una tapa o escotilla visible es una marca ubicada en el plano de la calzada. Se trata de contraventanas rectangulares y poligonales de lado superior a 1,00 m y de tapas y contraventanas circulares o cuadradas de lado o diámetro superior a 1,00 m."
+            },
+            "usage": {
+                "nl": "Naar GRB-basis - WRI1: Zichtbaar cirkelvormig putdeksel; WRI2: Zichtbaar vierkant putdeksel",
+                "es": "A base GRB - WRI1: Tapa de registro circular visible; WRI2: Tapa de registro cuadrada vista"
+            }
+        },
+        {
+            "EA-Guid": "{AE700A67-C0F2-462b-B9A1-9BD63850D99F}",
+            "name": "Zitbank",
+            "label": {
+                "nl": "Zitbank",
+                "es": "Sofá"
+            },
+            "definition": {
+                "nl": "Een openbaar zitmeubel, op een duurzame manier verbonden met het aardoppervlak en gelegen in parken of langsheen de openbare weg.",
+                "es": "Una plaza pública, conectada a la superficie terrestre de forma sostenible y ubicada en parques oa lo largo de la vía pública."
+            },
+            "usage": {
+                "nl": "Bron definitie: GRB-skeletaanvulling detail: WSM3: Niet-verplaatsbare zitbank.",
+                "es": "Definición de la fuente: detalle del suplemento del esqueleto GRB: WSM3: asiento de banco no móvil."
+            }
+        }
+    ],
+    "properties": [
+        {
+            "EA-Guid": "{4EAF9851-63DD-44f7-A262-796D0F592681}",
+            "name": "verzinkbaar",
+            "label": {
+                "nl": "verzinkbaar",
+                "es": "retráctil"
+            },
+            "definition": {
+                "nl": "Geeft aan dat het element ondergronds opgeborgen kan worden.",
+                "es": "Indica que el elemento se puede almacenar bajo tierra."
+            }
+        },
+        {
+            "EA-Guid": "{1294A1BD-955E-445d-9772-2AC98CC7A710}",
+            "name": "verplaatsbaar",
+            "label": {
+                "nl": "verplaatsbaar",
+                "es": "móvil"
+            },
+            "definition": {
+                "nl": "Duidt aan of het element al dan niet verplaatsbaar is en dus niet permanent verankerd werd met het aardoppervlak.",
+                "es": "Indica si el elemento es móvil o no y, por lo tanto, no está permanentemente anclado a la superficie terrestre."
+            }
+        },
+        {
+            "EA-Guid": "{7875811F-8453-40b9-8617-CECE2E10B62B}",
+            "name": "straatkolktype",
+            "label": {
+                "nl": "straatkolktype",
+                "es": "tipo de barranco"
+            },
+            "definition": {
+                "nl": "Het type straatkolk.",
+                "es": "El tipo de barranco de la calle."
+            }
+        },
+        {
+            "EA-Guid": "{3B83A3EA-0839-47ca-BAAF-BD1CC14DEFE3}",
+            "name": "stekkertype",
+            "label": {
+                "nl": "stekkertype",
+                "es": "Tipo de enchufe"
+            },
+            "definition": {
+                "nl": "Het stekkertype volgens de IEC norm 62196.",
+                "es": "El tipo de enchufe según la norma IEC 62196."
+            }
+        },
+        {
+            "EA-Guid": "{11D169BF-DF59-40e0-A3FA-6991246DF71A}",
+            "name": "speeltoesteltype",
+            "label": {
+                "nl": "speeltoesteltype",
+                "es": "tipo de parque infantil"
+            },
+            "definition": {
+                "nl": "Het type speeltoestel.",
+                "es": "El tipo de equipo de juegos."
+            }
+        },
+        {
+            "EA-Guid": "{7A3DBB8A-61AE-4edc-BC54-5A45691EE338}",
+            "name": "sorteerfractie",
+            "label": {
+                "nl": "sorteerfractie",
+                "es": "fracción de clasificación"
+            },
+            "definition": {
+                "nl": "Duidt het materiaal aan om te sorteren.",
+                "es": "Indica el material a clasificar."
+            }
+        },
+        {
+            "EA-Guid": "{80D5C5C1-7C28-441b-93EF-F563E216F824}",
+            "name": "rioleringscode",
+            "label": {
+                "nl": "rioleringscode",
+                "es": "código de alcantarillado"
+            },
+            "definition": {
+                "nl": "De rioleringscode is een arbitraire notitie van waarneembare eigenschappen van het deksel m.b.t. de beheerder en de functie van de ondergrondse ioleringsleiding.",
+                "es": "El código de alcantarillado es una nota arbitraria de las propiedades observables de la cubierta con respecto al administrador y la función de la tubería de drenaje subterráneo."
+            },
+            "usage": {
+                "nl": "Het GRB voorziet een codelijst: WRC1: Rioleringscode.",
+                "es": "El GRB proporciona una lista de códigos: WRC1: Código de aguas residuales."
+            }
+        },
+        {
+            "EA-Guid": "{DB820623-399E-4db9-981C-D5C0868DF183}",
+            "name": "overdekt",
+            "label": {
+                "nl": "overdekt",
+                "es": "interior"
+            },
+            "definition": {
+                "nl": "Duidt aan of het object al dan niet overdekt is.",
+                "es": "Indica si el objeto está cubierto o no."
+            }
+        },
+        {
+            "EA-Guid": "{7FBD51B3-0AC1-4439-B03C-6815275F4AF6}",
+            "name": "oplaadwijze",
+            "label": {
+                "nl": "oplaadwijze",
+                "es": "método de carga"
+            },
+            "definition": {
+                "nl": "De oplaadwijze volgens de IEC norm 62196.",
+                "es": "El método de carga según la norma IEC 62196."
+            }
+        },
+        {
+            "EA-Guid": "{160DD3FB-6B0D-4bd1-B595-B12D04D63BC1}",
+            "name": "nutsvoorzieningscode",
+            "label": {
+                "nl": "nutsvoorzieningscode",
+                "es": "código de utilidad"
+            },
+            "definition": {
+                "nl": "Aanduiding van de soort nutsvoorziening.",
+                "es": "Indicación del tipo de utilidad."
+            },
+            "usage": {
+                "nl": "Het GRB voorziet een codelijst: WNC nutsvoorzieningscode.",
+                "es": "El GRB proporciona una lista de códigos: código de utilidad WNC."
+            }
+        },
+        {
+            "EA-Guid": "{3CF10F64-136A-4f6a-86D6-B392D6F00AA8}",
+            "name": "nutsvoorzieningscode",
+            "label": {
+                "nl": "nutsvoorzieningscode",
+                "es": "código de utilidad"
+            },
+            "definition": {
+                "nl": "Aanduiding van de soort nutsvoorziening.",
+                "es": "Indicación del tipo de utilidad."
+            },
+            "usage": {
+                "nl": "Het GRB voorziet een codelijst: WNC nutsvoorzieningscode.",
+                "es": "El GRB proporciona una lista de códigos: código de utilidad WNC."
+            }
+        },
+        {
+            "EA-Guid": "{DB2C9D72-2B6A-4757-8699-779AC2D4CB37}",
+            "name": "nutsvoorzieningscode",
+            "label": {
+                "nl": "nutsvoorzieningscode",
+                "es": "código de utilidad"
+            },
+            "definition": {
+                "nl": "Aanduiding van de soort nutsvoorziening.",
+                "es": "Indicación del tipo de utilidad."
+            },
+            "usage": {
+                "nl": "Het GRB voorziet een codelijst: WNC nutsvoorzieningscode.",
+                "es": "El GRB proporciona una lista de códigos: código de utilidad WNC."
+            }
+        },
+        {
+            "EA-Guid": "{5D1C68E1-F440-48ff-BA9F-0550F011E0FB}",
+            "name": "materiaal",
+            "label": {
+                "nl": "materiaal",
+                "es": "material"
+            },
+            "definition": {
+                "nl": "Materiaal waar het object uit vervaardigd is.",
+                "es": "Material del que está hecho el objeto."
+            },
+            "usage": {
+                "nl": "Als mogelijke waarden voor dit attributen verwijzen we naar de materialen thesaurus van Onroerend Erfgoed: https://thesaurus.onroerenderfgoed.be/conceptschemes/MATERIALEN",
+                "es": "Como posibles valores para este atributo, nos referimos al tesauro de materiales de Onroerend Erfgoed: https://thesaurus.onroerenderfgoed.be/conceptschemes/MATERIALEN"
+            }
+        },
+        {
+            "EA-Guid": "{4F3D763D-A357-4823-BE12-6A17845B0767}",
+            "name": "inwendig verlicht",
+            "label": {
+                "nl": "inwendig verlicht",
+                "es": "iluminado internamente"
+            },
+            "definition": {
+                "nl": "Duidt aan of het element al dan niet inwendig verlicht is.",
+                "es": "Indica si el elemento está o no iluminado internamente."
+            }
+        },
+        {
+            "EA-Guid": "{511BE658-A61B-4256-B080-D877A3A47F81}",
+            "name": "geschikt voor",
+            "label": {
+                "nl": "geschikt voor",
+                "es": "adecuado para"
+            },
+            "definition": {
+                "nl": "Duidt het vervoersmiddel aan waarvoor het object geschikt is: auto, fiets,...",
+                "es": "Indica el medio de transporte para el que es apto el objeto: coche, bicicleta,..."
+            }
+        },
+        {
+            "EA-Guid": "{F5FE3004-F4E9-4495-90DF-144A8D1ADA0A}",
+            "name": "fietsdelen",
+            "label": {
+                "nl": "fietsdelen",
+                "es": "compartir bicicleta"
+            },
+            "definition": {
+                "nl": "Duidt aan of de fietsstalling al dan niet gebruikt wordt voor deelfietsen.",
+                "es": "Indica si el cobertizo para bicicletas se utiliza o no para bicicletas compartidas."
+            }
+        },
+        {
+            "EA-Guid": "{62E6AA92-7551-41b0-9262-866DA74A4942}",
+            "name": "drinkbaar",
+            "label": {
+                "nl": "drinkbaar",
+                "es": "potable"
+            },
+            "definition": {
+                "nl": "Geschikt voor menselijke consumptie.",
+                "es": "Apto para el consumo humano."
+            }
+        },
+        {
+            "EA-Guid": "{A58CABD0-65BA-469a-B4EA-B1EE7E14ECD4}",
+            "name": "deksel vorm",
+            "label": {
+                "nl": "deksel vorm",
+                "es": "forma de la tapa"
+            },
+            "definition": {
+                "nl": "De vorm van het deksel.",
+                "es": "La forma de la tapa."
+            }
+        },
+        {
+            "EA-Guid": "{3B16FF90-484C-41a1-B72C-3305ABCF7D4F}",
+            "name": "capaciteit",
+            "label": {
+                "nl": "capaciteit",
+                "es": "capacidad"
+            },
+            "definition": {
+                "nl": "Geeft aan hoeveel fietsen gestald kunnen worden aan of in de fietsenstalling.",
+                "es": "Indica cuántas bicicletas se pueden estacionar en o dentro del cobertizo para bicicletas."
+            }
+        },
+        {
+            "EA-Guid": "{1FC0079E-6798-4e2d-8182-8D17672CE55F}",
+            "name": "afsluitbaar",
+            "label": {
+                "nl": "afsluitbaar",
+                "es": "bloqueable"
+            },
+            "definition": {
+                "nl": "Duidt aan of het object al dan niet kan afgesloten worden om toegang voor onbevoegden te verhinderen.",
+                "es": "Indica si el objeto se puede bloquear o no para evitar el acceso no autorizado."
+            }
+        },
+        {
+            "EA-Guid": "{45C2F7A8-B5AC-48ba-87B6-0467B3515708}",
+            "name": "aantal ankerpunten",
+            "label": {
+                "nl": "aantal ankerpunten",
+                "es": "número de puntos de anclaje"
+            },
+            "definition": {
+                "nl": "Het aantal bevestigingspunten waarmee de mast verankerd is aan het aardoppervlak.",
+                "es": "El número de puntos de fijación con los que se ancla el mástil a la superficie terrestre."
+            }
+        }
+    ],
+    "externals": [
+        {
+            "EA-Guid": "{7C17057C-E498-4220-9ACB-F085529C68B6}",
+            "name": "Fontein",
+            "label": {
+                "nl": "Fontein",
+                "es": "Fuente"
+            }
+        },
+        {
+            "EA-Guid": "{337D0365-F029-47eb-B3E7-F670A84C8434}",
+            "name": "Materialen",
+            "label": {
+                "nl": "Materialen",
+                "es": "Materiales"
+            }
+        },
+        {
+            "EA-Guid": "{684969C3-F561-4e0a-8D67-CDFCCD843A6F}",
+            "name": "Sorteerfracties",
+            "label": {
+                "nl": "Sorteerfracties",
+                "es": "ordenar fracciones"
+            },
+            "definition": {
+                "nl": "Types materiaal om te sorteren",
+                "es": "Tipos de material a clasificar"
+            }
+        },
+        {
+            "EA-Guid": "{60542CFA-6FA5-4db7-BDBE-47FD912B31CB}",
+            "name": "Vervoersmiddelen",
+            "label": {
+                "nl": "Vervoersmiddelen",
+                "es": "Medios de transporte"
+            },
+            "definition": {
+                "nl": "Types vervoersmidellen",
+                "es": "Tipos de medios de transporte"
+            }
+        },
+        {
+            "EA-Guid": "{4F3C1B0A-BC93-4aa4-8FD0-1E76E93DB84E}",
+            "name": "Speel- en Sportvoorzieningtype",
+            "label": {
+                "nl": "Speel- en Sportvoorzieningtype",
+                "es": "Tipo de instalación de juegos y deportes"
+            },
+            "definition": {
+                "nl": "Typering voor speel- en sportvoorziening volgens de EN 1176  norm.",
+                "es": "Tipificación para instalaciones lúdicas y deportivas según norma EN 1176."
+            }
+        },
+        {
+            "EA-Guid": "{453D5571-73B9-4731-9A7B-C5DE1C06BB26}",
+            "name": "Oplaadwijzes",
+            "label": {
+                "nl": "Oplaadwijzes",
+                "es": "Métodos de carga"
+            },
+            "definition": {
+                "nl": "Oplaadwijzes volgens de IEC norm 62196.",
+                "es": "Métodos de carga según la norma IEC 62196."
+            }
+        },
+        {
+            "EA-Guid": "{E061CA0D-0339-400a-A249-11948B6B8869}",
+            "name": "Oplaadpunt Stekkertypes",
+            "label": {
+                "nl": "Oplaadpunt Stekkertypes",
+                "es": "Punto de carga Tipos de enchufes"
+            },
+            "definition": {
+                "nl": "De stekkertypes voor elektrische voortuigen zoals vastgelegd in de IEC-norm 62196.",
+                "es": "Los tipos de enchufes para vehículos eléctricos definidos en la norma IEC 62196."
+            }
+        },
+        {
+            "EA-Guid": "{9167BBBD-53BD-4a60-A112-CBFAA9DD28A6}",
+            "name": "Straatkolktypes",
+            "label": {
+                "nl": "Straatkolktypes",
+                "es": "Tipos de barrancos de calle"
+            },
+            "definition": {
+                "nl": "Het type straatkolk naar de GRB classificatie.",
+                "es": "El tipo de cárcava de la calle según la clasificación GRB."
+            }
+        },
+        {
+            "EA-Guid": "{614814EE-51C5-4150-890E-6D80353F7292}",
+            "name": "Nutsvoorzieningscodes",
+            "label": {
+                "nl": "Nutsvoorzieningscodes",
+                "es": "Códigos de utilidad"
+            },
+            "definition": {
+                "nl": "Aanduiding van de soort nutsvoorziening. Naar GRB-skeletoptie wegbeheer - WNC: nutsvoorzieningscode.",
+                "es": "Indicación del tipo de utilidad. A GRB skeleton option road management - WNC: código de utilidad."
+            }
+        },
+        {
+            "EA-Guid": "{F24ACFF5-B68D-467d-9865-FBAE7860A894}",
+            "name": "Dekselvormwaarde",
+            "label": {
+                "nl": "Dekselvormwaarde",
+                "es": "Valor de la forma de la tapa"
+            },
+            "definition": {
+                "nl": "De vorm van het deksel.",
+                "es": "La forma de la tapa."
+            }
+        },
+        {
+            "EA-Guid": "{C8506CD5-4418-4887-97C4-2F43D8D3AC77}",
+            "name": "Nauwkeurigheidsklassen",
+            "label": {
+                "nl": "Nauwkeurigheidsklassen",
+                "es": "Clases de precisión"
+            },
+            "definition": {
+                "nl": "De nauwkeurigheid waarmee objecten opgemeten worden hangt af van de meetmethode (terrestrisch of via luchtfotogrammetrie) en van de precisie waarmee objecten op het terrein kunnen aangeduid worden. Het GRB definieert 6 nauwkeurigheidsklassen van A tot en met F. Daarnaast werden op basis van het IMKL datamodel ook nog de waarden 'tot 50cm' en 'tot 100cm' opgenomen.",
+                "es": "La precisión con la que se miden los objetos depende del método de medición (terrestre o mediante fotogrametría aérea) y la precisión con la que se pueden indicar los objetos en el terreno. El GRB define 6 clases de precisión de la A a la F. Además, también se incluyeron los valores 'hasta 50 cm' y 'hasta 100 cm' según el modelo de datos IMKL."
+            }
+        },
+        {
+            "EA-Guid": "{713AB702-7885-4b59-8A08-CB95EF9F8919}",
+            "name": "Rioleringscode",
+            "label": {
+                "nl": "Rioleringscode",
+                "es": "código de alcantarillado"
+            },
+            "definition": {
+                "nl": "De rioleringscode is een arbitraire notitie van waarneembare eigenschappen van het putdeksel m.b.t. de beheerder en de functie van de ondergrondse rioleringsleiding.",
+                "es": "El código de alcantarillado es una nota arbitraria de las propiedades observables de la tapa de alcantarilla con respecto al administrador y la función de la tubería de alcantarillado subterráneo."
+            }
+        },
+        {
+            "EA-Guid": "{A8C3620F-8AC9-4df1-8B9A-838A9043531F}",
+            "name": "Element",
+            "label": {
+                "nl": "Element",
+                "es": "Elemento"
+            },
+            "definition": {
+                "nl": "Afzonderlijk te onderscheiden element dat ofwel direct of indirect bevestigd is aan het aardoppervlak.",
+                "es": "Elemento distinguible por separado que está unido directa o indirectamente a la superficie terrestre."
+            }
+        },
+        {
+            "EA-Guid": "{0C707DB5-1D87-4604-8A06-36F07898FB03}",
+            "name": "Fysiek object",
+            "label": {
+                "nl": "Fysiek object",
+                "es": "Objeto físico"
+            },
+            "definition": {
+                "nl": "De hoofdklasse waar alle objecten die geÃ¯nventariseerd kunnen worden van afgeleid worden.",
+                "es": "La clase principal de la que se derivan todos los objetos que se pueden inventariar."
+            }
+        }
+    ],
+    "externalproperties": [
+        {
+            "EA-Guid": "{48EBC730-AAD3-4933-866F-91A77EB4014A}",
+            "name": "niveau",
+            "label": {
+                "nl": "niveau",
+                "es": "nivel"
+            },
+            "definition": {
+                "nl": "Het niveau waarop het object zich bevindt, relatief ten opzichte van andere objecten.",
+                "es": "El nivel en el que se encuentra el objeto, en relación con otros objetos."
+            },
+            "usage": {
+                "nl": "Negatieve waarden worden geassocieerd met ondergronds en positieve waarden met bovengronds. Nul wordt beschouwd als een absolute waarde om het maaiveld aan te duiden.",
+                "es": "Los valores negativos se asocian con subterráneos y los positivos con sobre rasante. El cero se considera un valor absoluto para indicar el nivel del suelo."
+            }
+        },
+        {
+            "EA-Guid": "{C8476B1B-390B-4fa3-A3D3-C1B211E2C693}",
+            "name": "nauwkeurigheid",
+            "label": {
+                "nl": "nauwkeurigheid",
+                "es": "precisión"
+            },
+            "definition": {
+                "nl": "De precisie waarmee het object opgemeten werd.",
+                "es": "La precisión con la que se midió el objeto."
+            }
+        },
+        {
+            "EA-Guid": "{4F5A2878-E02F-44b7-957E-40E5E7C39AE9}",
+            "name": "einddatum",
+            "label": {
+                "nl": "einddatum",
+                "es": "fecha final"
+            },
+            "definition": {
+                "nl": "Datum waarop de huidige versie van het gebied of object uit gebruik wordt genomen.",
+                "es": "Fecha en que se retira la versión actual del área o función."
+            }
+        },
+        {
+            "EA-Guid": "{8C952A4E-0982-4b13-8600-70656D8FE5FF}",
+            "name": "begindatum",
+            "label": {
+                "nl": "begindatum",
+                "es": "fecha de inicio"
+            },
+            "definition": {
+                "nl": "Datum waarop de huidige versie van het gebied of object in gebruik wordt genomen.",
+                "es": "Fecha en la que se activa la versión actual del área u objeto."
+            }
+        },
+        {
+            "EA-Guid": "{D0642712-C066-4503-B618-BB35671F2727}",
+            "name": "geometrie",
+            "label": {
+                "nl": "geometrie",
+                "es": "geometría"
+            },
+            "definition": {
+                "nl": "De geometrie overeenkomstig met een bepaald object.",
+                "es": "La geometría correspondiente a un objeto en particular."
+            }
+        },
+        {
+            "EA-Guid": "{6B595E84-9F0B-4410-B9F4-3D8C305C0461}",
+            "name": "relatie",
+            "label": {
+                "nl": "relatie",
+                "es": "relación"
+            },
+            "definition": {
+                "nl": "Verwijst naar een object in een andere databank dat meer informatie kan verschaffen over het beheerobject.",
+                "es": "Hace referencia a un objeto en otra base de datos que puede proporcionar más información sobre el objeto de administración."
+            },
+            "usage": {
+                "nl": "Bijvoorbeeld een verwijzing naar een object uit het wegenregister of grootschalig referentiebestand.",
+                "es": "Por ejemplo, una referencia a un objeto del registro de carreteras o un archivo de referencia a gran escala."
+            }
+        }
+    ]
+}

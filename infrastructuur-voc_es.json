@@ -1,0 +1,2346 @@
+{
+  "classes": [
+    {
+      "EA-Guid": "{F63D0145-2C65-4a7f-84C5-06A9B80EC847}",
+      "name": "Aanplakbord",
+      "label": {
+        "nl": "Aanplakbord",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "(Paalvormige en duurzame verankering van) signalisatie langsheen de openbare weg met allerlei aankondigingen, al of niet van commerciële aard, op te plakken",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Voornamelijk voor reclameborden en verkiezingsdrukwerk. Naar GRB-skeletaanvulling detail - WPI12: Paal signalisatie publiciteit en Wikidata (https://www.wikidata.org/wiki/Q4379881).",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{A7D0ABAE-1A43-46cf-B049-FD812E726FC1}",
+      "name": "Afsluiting",
+      "label": {
+        "nl": "Afsluiting",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Op het terrein ondubbelzinnig aanwijsbare en permanent verankerde scheiding.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting (afgeleid)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{523DF5E5-28EC-47f4-B1A9-09B87617BFCB}",
+      "name": "Bedieningszuil",
+      "label": {
+        "nl": "Bedieningszuil",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Sensor in functie van elektrische installaties of straatmeubilair",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Bijvoorbeeld, bedieningszuil voor verzinkbare wegmonoliet.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{DFBE3495-8A44-4c4f-AD63-4745E17E6C33}",
+      "name": "Bestendige afsluiting",
+      "label": {
+        "nl": "Bestendige afsluiting",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Op het terrein ondubbelzinnig aanwijsbare en permanent verankerde scheiding die statisch is in vorm en geen doorgang toelaat.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{EF6EC13A-874D-4308-8088-D9E5F2E08544}",
+      "name": "Betaalautomaat",
+      "label": {
+        "nl": "Betaalautomaat",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Automaat die betaalkaarten of geld accepteert om betalingen uit te voeren bijvoorbeeld voor parkeertickets of tickets voor het openbaar vervoer.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI23: Betaalautomaat",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{007EB329-D5CF-4374-95E1-DF9BE8AF8ED1}",
+      "name": "Biggetje",
+      "label": {
+        "nl": "Biggetje",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Geprefabriceerde zeer lage (betonnen) veiligheidsstootband die over haar gehele lengte in de bodem is ingewerkt. Deze zijn overwegend parallel aan de hartlijn van de wegbaan georiënteerd en worden individueel geplaatst.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WLI14: Stootband type biggetjes/varkensruggen",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{8FE1BBAF-AB64-4c4a-9312-EE7DC3746F68}",
+      "name": "Boombeugel",
+      "label": {
+        "nl": "Boombeugel",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een boombeugel is een verticale structuur die enerzijds zorgt voor een adequate bescherming van bomen tegen auto's, fietsen, bromfietsen, en de anderzijds ook de nodige steun biedt bij het opgroeien van jonge bomen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletoptie groen- en begraafplaatsenbeheer - WGB: Boombeugel",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{A5F87EC6-88FC-4ed8-842C-80CF63E1C610}",
+      "name": "Borstwering",
+      "label": {
+        "nl": "Borstwering",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Hekwerk of constructie (balustrade, 'omega'-profielen,...) die geplaatst werd met het oog op de veiligheid van de zwakke weggebruiker, overwegend parallel aan de hartlijn van de wegbaan georiënteerd",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WLI8: Borstwering",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{7EC9D183-4025-4b57-A058-54E17CC703E3}",
+      "name": "Bovengrondse brandkraan",
+      "label": {
+        "nl": "Bovengrondse brandkraan",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Bovengronds aansluitingspunt aan de waterleiding, gelegen boven het maaiveld waar brandslangen op aangesloten kunnen worden.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - WPI4: Bovengrondse brandkraan",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{EFBA6364-C56A-438d-BB59-F6283EABB9F4}",
+      "name": "Bushok",
+      "label": {
+        "nl": "Bushok",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een bushok biedt in de regel onderdak aan reizigers van het openbaar vervoer.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - WGA1: Bushok",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{786E7F8F-DA4B-4401-ACDF-D3CD72E2B3A8}",
+      "name": "Camera",
+      "label": {
+        "nl": "Camera",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Vast of mobiel observatiesysteem dat beelden verzamelt, verwerkt of bewaart om: misdrijven te voorkomen, vast te stellen of op te sporen; overlast te voorkomen, vast te stellen of op te sporen; de orde te handhaven.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar Camerawet (De Gegevensbeschermingsautoriteit)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{44941B5B-D12B-473a-9A7A-949F9529E9F7}",
+      "name": "Communicatiemast",
+      "label": {
+        "nl": "Communicatiemast",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een meervoudige metalen constructie zoals een tijdelijke GSM-mast, een mast van een radio-amateur, een private ontvangst- en zendinstallatie.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - KNW15: Communicatiemast divers",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{F55A656B-20DE-49fb-A22C-B641C942288B}",
+      "name": "Cultuurhistorisch monument",
+      "label": {
+        "nl": "Cultuurhistorisch monument",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een cultuurhistorisch monument is een zichtbare constructie met historische, esthetische of landschappelijke waarde opgetrokken uit duurzame materialen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - KNW3: Cultuurhistorisch monument. Voor een verdere detaillering verwijzen we naar de Klein Erfgoed thesaurus van Onroerend Erfgoed (https://thesaurus.onroerenderfgoed.be/conceptschemes/ERFGOEDTYPES/c/237)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{6694F837-773E-4fd5-B840-28168A3806A8}",
+      "name": "Debietmeter",
+      "label": {
+        "nl": "Debietmeter",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een meettoestel bevestigd in of langs een waterloop die het aantal kubieke meter water registreert dat op een bepaald punt in een waterloop per seconde passeert.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletoptie water- en rioolbeheer - WRM3: Debietmeter",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{85234889-E08C-4c23-AA7E-66E15185B949}",
+      "name": "Deksel",
+      "label": {
+        "nl": "Deksel",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een object om een holte of hol voorwerp af te sluiten.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Deksel voor een holte gelegen in het maaiveld. Naar Wikidata (https://www.wikidata.org/wiki/Q2488579)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{FBE6B3AA-4427-4df4-B914-E69FC3C587F1}",
+      "name": "Detectielus",
+      "label": {
+        "nl": "Detectielus",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Inductielus van koperdraad verzonken in het wegdek waarmee met behulp van elektronica een voertuig kan worden waargenomen",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletoptie wegbeheer - WDL: Detectielus",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{21BCA416-0BCC-4487-B835-915FB5F4A1EC}",
+      "name": "Draadafsluiting",
+      "label": {
+        "nl": "Draadafsluiting",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Op het terrein ondubbelzinnig aanwijsbare en permanent verankerde scheiding, bestaande uit draad. ",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Verschillend van een spandraad of -ketting. Naar GRB-skeletaanvulling detail - AFS: Afsluiting - Draadafsluiting",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{7F6BED8F-C29A-4b1f-8EDD-5F18AC3F4513}",
+      "name": "Dwarsligger",
+      "label": {
+        "nl": "Dwarsligger",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Op het terrein ondubbelzinnig aanwijsbare en permanent verankerde scheiding, bestaande uit één of meerdere horizontale dwarsliggers.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting - Dwarsligger",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{C2B17775-9D26-4ddd-8FEA-24AFC3ACF06B}",
+      "name": "Elektriciteitspaal",
+      "label": {
+        "nl": "Elektriciteitspaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Paal van de elektriciteitsleiding.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI1: Paal",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{9DCBB855-B955-448c-9664-A81D84AA87CB}",
+      "name": "Fietsstalling",
+      "label": {
+        "nl": "Fietsstalling",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een fietsstalling is het geheel aan palen en/of verankeringspunten van een constructie bestemd voor het vastmaken van fietsen, gelegen op het openbare domein.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI16: Fietsstalling. Met het attribuut overdekt als True: GRB-basis - WGA3: Overdekte fietsstalling.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{A7B95CBF-D6CC-45c2-AACB-C60B8C746EC4}",
+      "name": "Fietstelpaal",
+      "label": {
+        "nl": "Fietstelpaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Paal die automatisch voorbij passerende fietsers telt.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar http://vlaamswoordenboek.be/definities/term/fietstelpaal",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{B8C66F48-45E0-415c-930B-5516DB642D52}",
+      "name": "Flitspaal",
+      "label": {
+        "nl": "Flitspaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een meettoestel waarmee snelheidsovertredingen en/of het negeren van een rood verkeerslicht vastgesteld kunnen worden.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Onder GRB-skeletaanvulling detail - WPI1: Paal ",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{DE47F070-C8BD-4230-B2C5-4812D6DD7264}",
+      "name": "GSM-paal",
+      "label": {
+        "nl": "GSM-paal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een burgerlijke constructie die gebruikt wordt voor de distributie van mobiele netwerken.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - KNW14: Nutspaal",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{B2A37D94-5271-4b8b-AD52-1AD106CF6DD5}",
+      "name": "Geluidscherm",
+      "label": {
+        "nl": "Geluidscherm",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een geluidswerende wandvormige constructie bestaande uit een desgevallend geluidsisolerend materiaal en/of geluidsabsorberend materiaal en voorzien van de nodige structuren om de bouwkundige stabiliteit te verzekeren.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletoptie wegbeheer - WGS: geluidsscherm",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{4EE80233-60A6-41c7-981C-15D8765593D7}",
+      "name": "Grenspaal",
+      "label": {
+        "nl": "Grenspaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een merkpaal die de grens van de Belgische Staat, de provincies en de gemeenten aanduidt.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - WPI5: Grenspaal",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{7DC508C1-18F9-4c52-A43F-1B84092715D1}",
+      "name": "Haltepaal",
+      "label": {
+        "nl": "Haltepaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een haltepaal duidt de locatie aan waar het openbaar vervoer, bv. bus, tram of trolley, stopt om passagiers te laten in- en uitstappen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI1102 wegsignalisatie openbaar vervoer ",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{F73B9AF2-407A-414e-9532-78B08EE81E99}",
+      "name": "Hondenpoepbuis",
+      "label": {
+        "nl": "Hondenpoepbuis",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een buisvormige Openbare Vuilnisbak waarin hondenpoepzakjes gedeponeerd kunnen worden.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{B11494CB-6D4F-46b3-9F06-23926A94E3C1}",
+      "name": "Hoogspanningsmast",
+      "label": {
+        "nl": "Hoogspanningsmast",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een hoogspanningsmast is een kunstwerk bedoeld voor het transport van stroom onder hoge spanning.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - KNW4: Hoogspanningsmast/TV-mast",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{CB9BF4D3-A96D-4f38-89F9-6776D2BE86F5}",
+      "name": "Hoogspanningspaal",
+      "label": {
+        "nl": "Hoogspanningspaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een burgerlijke constructie die gebruikt wordt voor het transport van elektriciteit.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - KNW14: Nutspaal",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{61E080EA-E148-4182-95B6-D53796E1590B}",
+      "name": "Huisaansluiting",
+      "label": {
+        "nl": "Huisaansluiting",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Zichtbaar en publiek eindpunt van een huisaansluiting voor afval- en regenwater.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI22: Huisaansluiting",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{BB8FA565-7551-4ed0-866B-A592AC3824C1}",
+      "name": "Infozuil",
+      "label": {
+        "nl": "Infozuil",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "(Paalvormige en duurzame verankering van) signalisatie langsheen de openbare weg met allerlei aankondigingen, al of niet van commerciële aard, op te plakken.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Voornamelijk ten behoeve van het verspreiden van informatie (Stratenplan, inforbord gemeente ...). Naar GRB-skeletaanvulling detail - WPI12: Paal signalisatie publiciteit.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{BE978AD9-6EC3-4227-80B7-7D4FE8305601}",
+      "name": "Infrastructuurelement",
+      "label": {
+        "nl": "Infrastructuurelement",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Individueel object op het Openbaar Domein dat niet vegetatief is.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{28C1DAE5-F8CC-48c6-9737-F55F71864BCC}",
+      "name": "Keldergat",
+      "label": {
+        "nl": "Keldergat",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Elke horizontale en artificieel afgebakende opening in het maaiveld langsheen de gevelwand van een gebouw, bedoeld als toegang of als verluchting en verlichting van kelders.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - GBA8: Rand gebouwaanhorigheid type keldergat ",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{CED2F272-012A-4b98-8214-3D3E78FEC9D8}",
+      "name": "Kleine windturbine",
+      "label": {
+        "nl": "Kleine windturbine",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een kleine windturbine is een constructie die gebruikt wordt voor de aanmaak van nutssignalen. Een kleine windturbine onderscheid zich van middelgrote of grootschalige windturbines door zijn beperkte ashoogte (15m), gemeten vanaf de voet van de windturbine. Een kleine windturbine kan voorkomen ter hoogte van het maaiveld of op gebouwen en constructies.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB aanvullende steekkaarten - WPI29: Kleine windturbine",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{499A5FCA-E67A-405d-AB15-1003F4E0675D}",
+      "name": "Knipperlicht",
+      "label": {
+        "nl": "Knipperlicht",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een oranje of wit knipperlicht op een paal, dat dienst doet als verkeerssignaal op wegen (vb. zone 30).",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI33: Knipperlicht",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{D0437F28-F8CC-4e53-B1D3-4BD3980869B3}",
+      "name": "Kopmuur",
+      "label": {
+        "nl": "Kopmuur",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een kopmuur is een inrichtingselement van de wegbaan, dat gebruikt wordt voor de geleiding van verkeer bij grachten. Een kopmuur is een keermuur die een functie vervult van afwateringssysteem en is in de regel haaks op de hartlijn van de wegcorridor georiënteerd.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - KNW19: Kopmuur",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{9FF90012-897B-4768-8ABD-20E2EC1F7EF2}",
+      "name": "Krooshek",
+      "label": {
+        "nl": "Krooshek",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een rooster, bedoeld om drijvend materiaal tegen te houden.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletoptie water- en rioolbeheer - KNW20: Bijzondere hydraulische constructie; WRC4: Functiecode bijzondere hydraulische constructie (KH: krooshekken) en naar Wikidata (https://www.wikidata.org/wiki/Q2397968)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{4DDA0EF8-C1EF-4d33-9D61-A56260CE3313}",
+      "name": "Lichtpunt",
+      "label": {
+        "nl": "Lichtpunt",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Elk lichtpunt dat is ingewerkt in het maaiveld of op een paaltje op beperkte hoogte boven het maaiveld (tot 2 meter) en dat gebruikt wordt als randverlichting (bvb verlichting van monument, parking,...), naast de openbare straatverlichting",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI20: Lichtpunt",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{74F739BE-8871-4988-8C63-AA97B13B3FDA}",
+      "name": "Lijnvormige wegmarkering",
+      "label": {
+        "nl": "Lijnvormige wegmarkering",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Lijnvormige schilderingen aangebracht op het verhard gedeelte van de wegbaan of kleurveranderingen van de verharding die een onderdeel vormen van de verkeerswetgeving.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Volgende types lijnvormige wegmarkering komen in aanmerking: arceringslijn,  kammarkering, doorlopende streep, rand van de rijbaan, fietstrook / fietspad, onderbroken lijn (5m), onderbroken streep (10m), gele onderbroken trottoirband, naderingsmarkering, busrijvak onderbroken, busrijvak ononderbroken, stopstreep, scheiding tussen individuele parkeerplaatsen. Naar GRB-skeletoptie wegbeheer - WEM2: Lijnvormige wegmarkering.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{7283028F-FE4E-4a97-AC73-39CFFA4EC502}",
+      "name": "Longitudinale weginrichting",
+      "label": {
+        "nl": "Longitudinale weginrichting",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een vast inrichtingselement binnen de wegbaan, met als doel de verkeersstromen in gescheiden stroken te leiden. Deze inrichtingselementen zijn overwegend parallel aan de lengteas van de wegbaan georiënteerd.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - WLI: Longitudinale weginrichting",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{07DE8B9E-3F3F-4250-8BE8-8DB68F512933}",
+      "name": "Mast",
+      "label": {
+        "nl": "Mast",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een civieltechnische constructie, anders dan een gebouw, opgetrokken uit duurzame materialen en zichtbaar aan het aardoppervlak. Een mast onderscheidt zich van een paal door zijn meervoudige duurzame verankering met de grond (bv. drievoetige mast).",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - KNW4: Hoogspanningsmast/TV-mast",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{76CF614C-629B-43d9-BA73-A8374E0C61FE}",
+      "name": "Meerpaal",
+      "label": {
+        "nl": "Meerpaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een paal/bolder, gelegen aan de rand van grote waterpartijen en van een speciale vorm voorzien om een schip vast te kunnen leggen bij het aanmeren. Een meerpaal is in principe hetzelfde als een bolder.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - WPI3: Meerpaal",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{13650FF5-3FA9-41cc-981B-6EE9D7DC2C43}",
+      "name": "Meteopaal",
+      "label": {
+        "nl": "Meteopaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Paal, permanent en duurzaam verankerd met de bodem, waarop een meetinstrument (windzak, windmeter, ...) bevestigd is ter bepaling van atmosferische omstandigheden.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB aanvullende steekkaarten - WPI28: Meteopaal ",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{46CCF037-B3DE-4f4c-B5E7-AD4AC77EF279}",
+      "name": "Muur",
+      "label": {
+        "nl": "Muur",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Buiten de wegbaan gelegen en op het terrein ondubbelzinnig aanwijsbare en permanent, lijnvormig verankerde en rechtopstaande scheiding of grondkering bestaande uit opeengestapeld (min. 2 lagen) metselwerk of beton.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - AMR: Muur",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{40BA617A-548D-4021-8D8E-27E3C86F1844}",
+      "name": "Muur binnen de wegbaan",
+      "label": {
+        "nl": "Muur binnen de wegbaan",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Muren binnen de wegbaan met als doel de normale verkeersstromen in gescheiden stroken te leiden. Deze zijn overwegend parallel aan de hartlijn van de wegbaan georiënteerd.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WLI10: Muur binnen de wegbaan ",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{234137F5-3528-44da-9241-0B30CD7C88EE}",
+      "name": "Normandische afsluiting",
+      "label": {
+        "nl": "Normandische afsluiting",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een afsluiting die typisch bestaat uit betonnen palen met betonnen dwarsbalken.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting - Normandische afsluiting",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{D50BB4A0-BFD9-4588-B406-49E9E801CE69}",
+      "name": "Nutskast",
+      "label": {
+        "nl": "Nutskast",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een voor de mens niet-toegankelijke bovengrondse en beschermende ombouw waarin elektrische onderdelen en installaties, noodzakelijk voor de distributie van gas, elektriciteit en communicatiesignalen, worden ondergebracht (algemeen).",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Aangevuld met een Nutsvoorzieningscode (GRB-skeletoptie wegbeheer - WNC: nutsvoorzieningscode). Naar GRB-skeletaanvulling detail - WKI: Nutskast.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{DDDCD57B-ED48-473d-84CC-784E488CA126}",
+      "name": "Nutspaal",
+      "label": {
+        "nl": "Nutspaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een nutspaal is een burgerlijke constructie, die gebruikt wordt voor de aanmaak (windturbine), het transport (hoogspanningspaal) of distributie (GSM-paal) van nutssignalen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Een paal verschilt van een mast door zijn enkelvoetige duurzame verankering met de grond. Naar GRB-skeletaanvulling detail - KNW14: Nutspaal",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{545450ED-E5A7-425c-A3A5-2607B2EBCE8C}",
+      "name": "Omklapbare wegmonoliet",
+      "label": {
+        "nl": "Omklapbare wegmonoliet",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een omklapbaar massief obstakel dat de doorgang van voertuigen kan beletten en dynamisch is in aard.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Een omklapbaar massief obstakel dat de doorgang van voertuigen kan beletten en dynamisch is in aard.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{7B616A1C-0F0E-4328-B683-36F962471CC3}",
+      "name": "Openbaar toilet",
+      "label": {
+        "nl": "Openbaar toilet",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een toilet dat bestemd is voor algemeen gebruik en dat zich bevindt in de openbare ruimte of op een locatie met veel passanten, zoals in trein- of benzinestations, of op een evenemententerrein.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar Wikidata (https://www.wikidata.org/wiki/Q813966)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{55234F19-8E80-4f07-B0EF-AC7B60A56806}",
+      "name": "Openbare brievenbus",
+      "label": {
+        "nl": "Openbare brievenbus",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een openbare postbus ter verzameling van briefwisseling voor regelmatige verzending via postbedrijven.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI13: Openbare brievenbus",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{FDEDC51E-D6D9-45f5-A752-713C504DDEEC}",
+      "name": "Openbare straatverlichting aan gevel of muur",
+      "label": {
+        "nl": "Openbare straatverlichting aan gevel of muur",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een openbaar lichtpunt dat is bevestigd aan de gevel van een gebouw of constructie of bevestigd is aan een muur en dat gebruikt wordt om de omgeving te verlichten.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Omvat bijvoorbeeld ook de plafondverlichting in tunnels. Naar GRB-skeletaanvulling detail - WPI31: Openbare straatverlichting aan gevel/muur.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{46F787F6-7050-4c12-9E57-869F4A8F8861}",
+      "name": "Openbare verlichting",
+      "label": {
+        "nl": "Openbare verlichting",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een openbare lichtpunt dat gebruikt wordt om de omgeving te verlichten.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI31: Openbare straatverlichting aan gevel/muur; WPI20: Lichtpunt",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{29D762C5-5CA8-4dc1-8A18-4D9C9DDBB1F1}",
+      "name": "Openbare vuilnisbak",
+      "label": {
+        "nl": "Openbare vuilnisbak",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Deels in de grond ingewerkte of verankerde vuilnisbak, bestemd voor het deponeren van afval van de voorbijgangers en gelegen op het openbare domein.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI15: Openbare vuilnisbak",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{641092C0-89C7-434b-8A96-7F7196956FA4}",
+      "name": "Oplaadpunt",
+      "label": {
+        "nl": "Oplaadpunt",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een infrastructuurelement dat elektrische energie voorziet om een elektrisch voertuig zoals een boot, fiets of een auto op te laden.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar Wikidata (https://www.wikidata.org/wiki/Q2140665)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{74E19F13-331E-4340-924D-5E1A2E0A45D4}",
+      "name": "Paal bovenleiding tram trein trolley",
+      "label": {
+        "nl": "Paal bovenleiding tram trein trolley",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Paal van de bovenleiding van trolley- of spoorinstallaties",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI1: Paal; WPI105 bovenleiding tram, trein of trolley",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{E7A7B6AB-1A74-4170-8847-F2C5A30ED036}",
+      "name": "Paneelafsluiting",
+      "label": {
+        "nl": "Paneelafsluiting",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een afsluiting opgebouwd uit een of meerdere panelen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting - houten paneel en afsluiting",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{7493FD91-FCC6-4f66-B83E-4CE4568C7943}",
+      "name": "Parkeersensor",
+      "label": {
+        "nl": "Parkeersensor",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een sensor die de aanwezigheid van een voertuig op een parkeerplaats registreert.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{A954B537-23E2-4f01-AA7D-AF759ED61D14}",
+      "name": "Picknicktafel",
+      "label": {
+        "nl": "Picknicktafel",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Voor iedereen vrij toegankelijke tafel op verzorgingsplaatsen (o.a. langs autowegen, recreatiegebieden, parken, pleinen ...) met vaak daaraan gemonteerde zitbanken of stoelen die kan gebruikt worden om te picknicken.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletoptie groen- en begraafplaatsenbeheer - PRA: Park- of recreatieattribuut; PRC: Functiecode park- of recreatieattribuut  en Wikidata (https://www.wikidata.org/wiki/Q2466395)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{0CDC286D-E410-4135-BF31-F24BCF8A4C3D}",
+      "name": "Pijler",
+      "label": {
+        "nl": "Pijler",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een pijler is een civieltechnische constructie, anders dan gebouw, opgetrokken uit duurzame materialen en zichtbaar aan het aardoppervlak bedoeld voor het ondersteunen van civieltechnische constructies zoals gebouwen of bruggen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - KNW5: Pijler",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{AC3B5B0E-2E2F-456b-9D1B-7808C99865E5}",
+      "name": "Plooibaken",
+      "label": {
+        "nl": "Plooibaken",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een zacht kunststoffen paal met verschillende diameter en reflecterende banden.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{A1F7B8B7-9EB1-4ae4-BEF5-59674E5787AE}",
+      "name": "Puntvormige wegmarkering",
+      "label": {
+        "nl": "Puntvormige wegmarkering",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Puntvormige schilderingen aangebracht op het verhard gedeelte van de wegbaan en die een onderdeel vormen van de verkeerswetgeving.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Types puntvormige wegmarkering: fiets; mindervalide, snelheidsbeperkingen, parkeerverbod, plaats met veel kinderen, pijlen, letters, uitroepteken, voorrang van rechts. Naar GRB-skeletoptie wegbeheer - WEM1: Puntvormige wegmarkering.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{84F855E4-B200-4de6-A5CD-45329936B4EF}",
+      "name": "Putdeksel",
+      "label": {
+        "nl": "Putdeksel",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een putdeksel is een deksel of luik van ondergrondse leidingen en installaties. Onder putdeksels vallen cirkelvormige (vrije) deksels met diameter gelegen tussen 65 en 100cm en vierkante (vrije) deksels (65cm <= zijde <= 100cm).",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Bron definitie: GRB WRI: Putdeksel",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{914C66CF-E04B-4857-8B76-464C810F4CD3}",
+      "name": "Recyclagecontainer",
+      "label": {
+        "nl": "Recyclagecontainer",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Container voor het verzamelen van al dan niet specifiek materiaal met als doel het te sorteren, recycleren of hergebruiken.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{B7D08681-32CE-48cc-A0EC-7607AB91F195}",
+      "name": "Reddingsband",
+      "label": {
+        "nl": "Reddingsband",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Elk ringvormig object gemonteerd op een paal, in een kast of aan een haak bevestigd dat bedoeld is om toegeworpen te worden als reddingsmiddel naar personen die in water terecht gekomen zijn.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletoptie water- en rioolbeheer - WPI27: Reddingsband",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{94E2E58A-3FC6-4325-94CC-9138A4E106E5}",
+      "name": "Reflectorpaal",
+      "label": {
+        "nl": "Reflectorpaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een kunstoffen paal met reflector om het verkeer te geleiden.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{45A4A8AC-D2EC-4309-8F33-76CF4ADF4A09}",
+      "name": "Rijbaankussen",
+      "label": {
+        "nl": "Rijbaankussen",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een verkeersremmer vervaardigd uit kunststof en strekt zich doorgaans niet uit over de volledige breedte van de rijbaan.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar wegcode (B.S. 31.05.2002) https://www.wegcode.be/wetteksten/secties/omzendbrieven/mo-03050230km/1164-omzendbrief. Anders dan de conventionele verhoogde inrichtingen die gereglementeerd zijn (KB 09-10-1998).",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{D76203DC-0B63-4e7f-AC77-DCA9C691652C}",
+      "name": "Rooster",
+      "label": {
+        "nl": "Rooster",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een rooster is een civieltechnische constructie, anders dan gebouw, opgetrokken uit duurzame materialen, en zichtbaar aan het aardoppervlak.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - KNW6: Rooster (afgeleid)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{C74F6ABD-004D-4a2f-A8E1-168570250A6D}",
+      "name": "Schampblok",
+      "label": {
+        "nl": "Schampblok",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Geprefabriceerde betonnen veiligheidsstootband met beperkte lengte, waarvan meestal een rij geplaatst wordt in longitudinale richting.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WVG verkeersgeleider",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{3FBB243D-0E0A-478f-AB41-C5A3582E762E}",
+      "name": "Seininstallatie overgang spoorbedding",
+      "label": {
+        "nl": "Seininstallatie overgang spoorbedding",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Installatie voor het regelen van de toegang tot een spoorwegovergang.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI106: seininstallatie overgang spoorbedding NMBS en Wikidata (https://www.wikidata.org/wiki/Q8004)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{B2F5B6C5-F90B-4dcf-BFEF-974D7015AD5A}",
+      "name": "Selectieve afsluiting",
+      "label": {
+        "nl": "Selectieve afsluiting",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Op het terrein ondubbelzinnig aanwijsbare afsluiting die gebruikt kan worden om selectief en/of periodiek toegang te verlenen aan voertuigen, fietsers en/of voetgangers.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting (afgeleid)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{317F7190-4AE5-48e6-A622-C4FBE6A8881E}",
+      "name": "Sensoropstelling",
+      "label": {
+        "nl": "Sensoropstelling",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "De gehele opstelling van een meettoestel, bedoeld om iets waar te nemen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "De sensor zelf hoeft niet noodzakelijk aanwezig te zijn, bijvoorbeeld een flitspaal zonder een flitscamera. Naar GRB-skeletoptie water- en rioolbeheer - WRM3: Debietmeter; GRB Aanvullende steekkaarten - WPI28: Meteopaal; GRB-skeletoptie wegbeheer - WDL: Detectielus (afgeleid).",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{378D751F-68C2-4a9c-ADD8-F0CB1256109C}",
+      "name": "Signalisatie",
+      "label": {
+        "nl": "Signalisatie",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Elementen langsheen wegen en waterlopen ter orientatie van het verkeer. ",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Bijvoorbeeld reflectorpaaltjes, palen voor verkeersborden, wegwijzers, plaatsnaamborden, straatnaambord, bord bebouwde kom, signalisatiepalen openbaar vervoer. Naar GRB-skeletoptie water- en rioolbeheer - WRS1: Signalisatie scheepvaart elektrisch; WRS2: Signalisatie scheepvaart niet-elektrisch (afgeleid).",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{D0DDA235-9B9E-4168-8796-EC0D54A695AB}",
+      "name": "Signalisatie en leidingenportiek",
+      "label": {
+        "nl": "Signalisatie en leidingenportiek",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Elke overspanning van een gedeelte van de wegbaan, watergang of spoorbaan waarbij ofwel signalisatieborden werden aangebracht ofwel gebruikt ter overbrugging van de wegbaan, watergang of spoorbaan voor leidingen",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WSM2: Signalisatie- en leidingenportiek ",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{08E7FCCC-4F81-4f0a-A37A-A752A286A929}",
+      "name": "Signalisatie scheepvaart",
+      "label": {
+        "nl": "Signalisatie scheepvaart",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Paalvormige en duurzame verankering van signalisatie langsheen een waterloop ter oriëntatie van het scheepvaartverkeer.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletoptie water- en rioolbeheer - WRS1: Signalisatie scheepvaart elektrisch; WRS2: Signalisatie scheepvaart niet-elektrisch (afgeleid)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{B025C8C6-8AB6-4110-A196-805CE3A83C1F}",
+      "name": "Signalisatie scheepvaart elektrisch",
+      "label": {
+        "nl": "Signalisatie scheepvaart elektrisch",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Paalvormige en duurzame verankering van signalisatie langsheen een waterloop ter oriëntatie van het scheepvaartverkeer of de bediening ervan die beschikken over een inwendige verlichting, lichten, elektrische ogen en radarscanners.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletoptie water- en rioolbeheer - WRS1: Signalisatie scheepvaart elektrisch",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{D07398FA-7C75-4d19-B104-D1F533A703C6}",
+      "name": "Signalisatie scheepvaart niet-elektrisch",
+      "label": {
+        "nl": "Signalisatie scheepvaart niet-elektrisch",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Paalvormige en duurzame verankering van signalisatie langsheen een waterloop ter oriëntatie van het scheepvaartverkeer bvb. verboden te ankeren, VHF-kanaal aanduiding,...",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletoptie water- en rioolbeheer - WRS2: Signalisatie scheepvaart niet-elektrisch",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{DBBB29DE-8BE3-4eea-BAF9-056B2F07B175}",
+      "name": "Silo",
+      "label": {
+        "nl": "Silo",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een silo of een opslagtank is een grote zichtbare installatie opgetrokken uit duurzame materialen voor opslag en verwerking van bulkmaterialen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - KNW9: Silo, opslagtank",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{3CDE04E5-5923-4039-995A-5BB46621FAB2}",
+      "name": "Slagboom",
+      "label": {
+        "nl": "Slagboom",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een afsluitingsmechanisme met slagboomarmen dat dient om controle uit te kunnen oefenen over het gebruik van een doorgang of een toegang.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WSB: Slagboom ",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{A2B1DD7A-65B2-47cf-A4FA-A425061987E5}",
+      "name": "Afsluiting spandraad en -ketting",
+      "label": {
+        "nl": "Afsluiting spandraad en -ketting",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Op het terrein ondubbelzinnig aanwijsbare en permanent verankerde scheiding, bestaande uit spandraad en/of kettingen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Verschilt van een draadafsluiting. Naar GRB-skeletaanvulling detail - AFS: Afsluiting - Spandraad en -ketting.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{0A5C9C6B-44D7-4434-8B7C-86A9FFF35556}",
+      "name": "Speel- en sportvoorziening",
+      "label": {
+        "nl": "Speel- en sportvoorziening",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Element op het terrein ontworpen of kennelijk bestemd om te spelen of te sporten",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletoptie groen- en begraafplaatsenbeheer - PRA: Park- of recreatieattribuut; PRC: Functiecode park- of recreatieattribuut",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{13A87D0E-8857-47e3-9462-C751596A120C}",
+      "name": "Spuitkop",
+      "label": {
+        "nl": "Spuitkop",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een watervoorziening met een visuele functie, bijvoorbeeld op een stadplein, of voor de bewatering van grasperken, sportgazons...",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{69DFCCA4-4913-44a4-95C6-F55B45041CE8}",
+      "name": "Statische wegmonoliet",
+      "label": {
+        "nl": "Statische wegmonoliet",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een niet-verzinkbaar massief obstakel dat de doorgang van voertuigen belet.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Bijvoorbeeld Amsterdammers. Naar GRB-skeletaanvulling detail - WPI14: Wegmonoliet.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{F594BFD7-52D5-4b11-A0A7-8C2C45F0B8CC}",
+      "name": "Stootband",
+      "label": {
+        "nl": "Stootband",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Vaste inrichtingselementen binnen de wegbaan (WBN) met als doel de normale verkeersstromen in gescheiden stroken te leiden. Deze zijn overwegend parallel aan de hartlijn van de wegbaan georiënteerd. Een stootband is een geprefabriceerde betonnen veiligheidsband die over haar gehele lengte op de bodem rust en geplaatst werd om te voorkomen dat voertuigen van de weg afraken.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - WLI2: Muur / stootband",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{A02B5E90-08FA-4d66-8B01-59F4DC3C69CE}",
+      "name": "Stootband dupuis",
+      "label": {
+        "nl": "Stootband dupuis",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Geprefabriceerde betonnen veiligheidsstootband die over haar gehele lengte op de bodem rust en geplaatst werd om te voorkomen dat voertuigen van de weg afgeraken. Deze zijn overwegend parallel aan de hartlijn van de wegbaan georiënteerd.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WLI11: Stootband type 'dupuis'",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{526D3B99-9779-4a49-AD30-A623E36EC2E1}",
+      "name": "Stootband new jersey",
+      "label": {
+        "nl": "Stootband new jersey",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Ter plaatse vervaardigde hoge (0,60 tot 1,00m) betonnen veiligheidsstootband die over haar gehele lengte op de bodem rust. Deze zijn overwegend parallel aan de hartlijn van de wegbaan georiënteerd.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WLI12: Stootband type new jersey",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{3280192E-DB1C-4e0a-A904-486104357903}",
+      "name": "Straatkap",
+      "label": {
+        "nl": "Straatkap",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Elke straatkap of deksel in beton, pvc, polyester of gietijzer die een leiding aanduidt. Een zichtbare straatkap is een merkteken of deksel dat zich in het vlak van de wegbaan bevindt (bv. luiken en deksels communicatieleidingen, waterleiding,...).",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI17: Zichtbare straatkap gelijkgronds; WPI18: Zichtbare straatkap bovengronds",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{0BD2849F-3241-43fe-9F66-C397CAB27F9D}",
+      "name": "Straatkolk",
+      "label": {
+        "nl": "Straatkolk",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "De hemelwaterinlaatconstructie, meestal geplaatst in de straatgoot of watergreppel, waarlangs het hemelwater van de verhardingen wordt afgevoerd.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI9: Straatkolk",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{3A18D60B-AA86-4805-AF35-807DC773C178}",
+      "name": "Straatmeubilair",
+      "label": {
+        "nl": "Straatmeubilair",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Straatmeubilair is  een diverse groep van objecten die in het algemeen in de openbare ruimte staan (zowel corridor- als surplusgebied).",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{A3048705-85E9-473d-BF1A-DFA780A1F463}",
+      "name": "Straatspiegel",
+      "label": {
+        "nl": "Straatspiegel",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "(Meestal) bolvormig reflecterend voorwerp, specifiek geplaatst ten behoeve van de verkeersveiligheid.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{45DCFF8B-55B6-43fe-8FA7-7A88D8B0B445}",
+      "name": "TV-mast",
+      "label": {
+        "nl": "TV-mast",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een TV-mast is een kunstwerk bedoeld voor de distributie van TV-signalen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - KNW4: Hoogspanningsmast/TV-mast",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{E630D871-7CF5-45f7-B85F-2F132BC98776}",
+      "name": "Telefoonpaal",
+      "label": {
+        "nl": "Telefoonpaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Paal van de telefoonleiding.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI1: Paal",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{B987B621-0B22-4107-8828-1BEE5F6A38F3}",
+      "name": "Toegangspoort",
+      "label": {
+        "nl": "Toegangspoort",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een object dat de toegang tot een gebied, zone of terreindeel periodiek kan afsluiten.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Gerelateerd aan object: GRB WSP: Scharnierpunt hek/poort ",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{0B1504BF-3F18-45f1-BFB3-E0D2BDB0A4E7}",
+      "name": "Tractorsluis",
+      "label": {
+        "nl": "Tractorsluis",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "\tEen vast inrichtingselement binnen de zone voor snelverkeer van de wegbaan met als doel slechts bepaalde types voertuigen door te laten (c.q. tractoren",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{5CF0A8C7-8047-42d9-8250-7C926833A698}",
+      "name": "Transversale weginrichting",
+      "label": {
+        "nl": "Transversale weginrichting",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een vast inrichtingselement binnen de zone voor snelverkeer met als doel de normale verkeersstroom te remmen of te compartimenteren. Deze inrichtingselementen zijn overwegend dwars op de lengteas van de wegbaan georiënteerd.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - WTI: Transversale weginrichting",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{525C662E-BC33-4c90-B668-DD038F7CE783}",
+      "name": "Treinbiels",
+      "label": {
+        "nl": "Treinbiels",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Afsluiting bestaande uit dwarsliggers die oorspronkelijk een onderdeel zijn van de bovenbouw van een spoorweg om de spoorstaven te dragen en houden de beide spoorstaven in de gewenste spoorwijdte uit elkaar. ",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - AFS: Afsluiting - horizontale en verticale treinbils en Wikidata (https://www.wikidata.org/wiki/Q220229)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{2EA7ED28-BF37-4640-AD7D-8385C47B9D23}",
+      "name": "Vangrail",
+      "label": {
+        "nl": "Vangrail",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een vangrail is een constructie-element bestaande uit metalen stroken voor de scheiding en beveiliging van diverse soorten weggebruikers, voornamelijk langs de berm van wegen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - WLI3: Vangrail",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{04DE90A2-86F8-4740-A3B2-546BB6E8F2B4}",
+      "name": "Veerooster",
+      "label": {
+        "nl": "Veerooster",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een veerooster is een infrastructurele voorziening die is aangebracht in het wegdek om te voorkomen dat vee een gebied binnenkomt of verlaat.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar Wikidata (https://www.wikidata.org/wiki/Q2164694)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{23301ED2-76E9-4740-85BB-F349DC9284EA}",
+      "name": "Veiligheidsband",
+      "label": {
+        "nl": "Veiligheidsband",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Geprefabriceerde lage betonnen veiligheidsstootband die over haar gehele lengte op de bodem rust. Deze zijn overwegend parallel aan de hartlijn van de wegbaan georiënteerd.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Bron object: GRB WLI13: Stootband type veiligheidsband",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{63293FCA-CF77-4221-83CA-A4ACA5B21805}",
+      "name": "Verkeersbord",
+      "label": {
+        "nl": "Verkeersbord",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Wegsignalisatie aangebracht op een element op het openbaar domein (paal, gevel, portiek ...) om het verkeer op de openbare weg te regelen en die geen verkeerslicht zijn.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Verkeersborden kunnen al dan niet statisch of dynamisch zijn en al dan niet elektronisch. Tot de verkeersborden horen niet de verkeerslichten (signalisatie voor het oprijden van gelijkvloerse kruisingen, toegangen en dergelijke). Naar Wikidata (https://www.wikidata.org/wiki/Q170285).",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{E85600C9-2338-49a5-ABC4-C6AA903BFB7E}",
+      "name": "Verkeersdrempel",
+      "label": {
+        "nl": "Verkeersdrempel",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een verhoogde verkeersdrempel is een vast inrichtingselement binnen de zone voor snelverkeer van de wegbaan met als doel de normale verkeersstroom te remmen of te compartimenteren. Een verhoogde verkeersdrempel is een transversaal inrichtingselement dat overwegend dwars op de hartlijn van de wegbaan georiënteerd is.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - WTI1: Verhoogde verkeersdrempel",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{3B4FA76C-26CC-4d75-ADCD-5C936FEFE798}",
+      "name": "Verkeerslicht",
+      "label": {
+        "nl": "Verkeerslicht",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Wegsignalisatie dat met behulp van lichtsignalen het regelen van het oprijden van onder andere een gelijkvloerse kruising, de toegang tot bruggen, tunnels en spoorwegovergangen, de toegang tot parkeergarages en -terreinen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI1: Paal; WPI107 verkeerslicht; WPI108 verkeerslicht overhangend en Wikidata (https://www.wikidata.org/wiki/Q8004)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{A6913CA6-F04F-4697-A752-331C1E33242F}",
+      "name": "Verkeerslicht voetganger fietser",
+      "label": {
+        "nl": "Verkeerslicht voetganger fietser",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Wegsignalisatie dat met behulp van lichtsignalen het regelen voor zwakke weggebruikers (onder andere voetgangers en fietsers) van het oprijden van onder andere een gelijkvloerse kruising, de toegang tot bruggen, tunnels en spoorwegovergangen, de toegang tot parkeergarages en -terreinen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI1: Paal; WPI109 verkeerslicht voetganger/fietser en Wikidata (https://www.wikidata.org/wiki/Q8004)",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{DA2499AF-94BE-43c9-9998-EED6341EF81C}",
+      "name": "Verlichtingspaal",
+      "label": {
+        "nl": "Verlichtingspaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een openbare lichtpunt op een paal dat gebruikt wordt om de omgeving te verlichten. ",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Geen lichtpunt (beperkte hoogte). Naar GRB-skeletaanvulling detail - WPI1: Paal; WPI102 verlichting",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{79EAFA5B-8580-4832-8AD4-949D7511F837}",
+      "name": "Verluchtingsrooster",
+      "label": {
+        "nl": "Verluchtingsrooster",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een rooster is een civieltechnische constructie, anders dan gebouw, opgetrokken uit duurzame materialen, en zichtbaar aan het aardoppervlak bedoeld voor de ventilatie van ondergrondse ruimtes.\t",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - KNW6: Rooster",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{20E3FF44-F025-4586-AD62-2E5F85054EC5}",
+      "name": "Verzinkbare wegmonoliet",
+      "label": {
+        "nl": "Verzinkbare wegmonoliet",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een verzinkbaar massief obstakel dat de doorgang van voertuigen belet.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI14: Wegmonoliet (afgeleid).",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{B9521F51-3F66-4e70-A5A4-BEF1507C491A}",
+      "name": "Vlaggenpaal",
+      "label": {
+        "nl": "Vlaggenpaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Paal, permanent en duurzaam verankerd met de bodem en opgericht voor het bevestigen en hijsen van vlaggen.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI24: Vlaggenpaal ",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{E73740F8-265A-4b7a-9223-D523FAE686C1}",
+      "name": "Vlakvormige wegmarkering",
+      "label": {
+        "nl": "Vlakvormige wegmarkering",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Vlakvormige schilderingen aangebracht op het verhard gedeelte van de wegbaan of kleurveranderingen van de verharding die een onderdeel vormen van de verkeerswetgeving.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Types vlakvormige wegmarkering: verkeersgeleiders, verdrijvingsvlakken, zebrapad, oversteekplaats voor fietsers, fietssuggestiestrook,... Naar GRB-skeletoptie wegbeheer - WEM3: Vlakvormige wegmarkering.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{8485FE92-0A48-4e04-B551-C7CC8B02D9C9}",
+      "name": "Waterpunt",
+      "label": {
+        "nl": "Waterpunt",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een voorziening waar water kan bekomen worden, bijvoorbeeld door middel van een pomp, kraan, ...",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletoptie groen- en begraafplaatsenbeheer - WPT: Waterpunt",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{97ED7AFE-1C8C-4f9a-BAFF-873D14378146}",
+      "name": "Weginrichtingselement",
+      "label": {
+        "nl": "Weginrichtingselement",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een ruimtelijk object dat dient voor de inrichting van de openbare weg om het verkeer fysiek te sturen.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{4DE4721F-9E59-4b71-8B75-A53E703D987D}",
+      "name": "Wegmarkering",
+      "label": {
+        "nl": "Wegmarkering",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Schilderingen aangebracht op het verhard gedeelte van de wegbaan of kleurveranderingen van de verharding die een onderdeel vormen van de verkeerswetgeving.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletoptie wegbeheer - WEM1: Puntvormige wegmarkering; WEM2: Lijnvormige wegmarkering; WEM3: Vlakvormige wegmarkering ",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{C3CF0693-00E4-4587-972B-F1B33C8A260E}",
+      "name": "Wegmonoliet",
+      "label": {
+        "nl": "Wegmonoliet",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een massief obstakel dat de doorgang van voertuigen belet.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - WPI14: Wegmonoliet.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{A1DCAFDA-FEEC-49e7-9C70-8A30772E8ED0}",
+      "name": "Wegneembare wegmonoliet",
+      "label": {
+        "nl": "Wegneembare wegmonoliet",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een wegneembaar obstakel dat de doorgang van voertuigen belet en niet dynamisch is in aard.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Enkel manueel verwijderbaar. Naar GRB-skeletaanvulling detail - WPI14: Wegmonoliet (afgeleid).",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{8DC8FDBC-4F97-4c3d-8789-1A46297EB331}",
+      "name": "Wegsignalisatie",
+      "label": {
+        "nl": "Wegsignalisatie",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Alle elementen aangebracht ten behoeve van de weggebruiker, bijvoorbeeld: reflectorpaaltjes, palen voor verkeersborden, wegwijzers, plaatsnaamborden, straatnaambord, bord bebouwde kom, signalisatiepalen openbaar vervoer.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{4411EF2C-C350-4b23-97F3-59FB1EFFBC82}",
+      "name": "Windturbine",
+      "label": {
+        "nl": "Windturbine",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een burgerlijke constructie die gebruikt wordt voor de opwekking van elektriciteit.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-skeletaanvulling detail - KNW14: Nutspaal",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{332340E2-DAF5-4585-A6D5-D68FFA2EEF21}",
+      "name": "Zichtbaar deksel of luik",
+      "label": {
+        "nl": "Zichtbaar deksel of luik",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een zichtbaar deksel of luik is een merkteken dat zich in het vlak van de wegbaan bevindt. Het gaat om rechthoekige en veelhoekige luiken waarvan de zijde groter is dan 1,00m en cirkelvormige of vierkante deksels en luiken waarvan de zijde of diameter groter is dan 1,00m.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Naar GRB-basis - WRI1: Zichtbaar cirkelvormig putdeksel; WRI2: Zichtbaar vierkant putdeksel",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{AE700A67-C0F2-462b-B9A1-9BD63850D99F}",
+      "name": "Zitbank",
+      "label": {
+        "nl": "Zitbank",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Een openbaar zitmeubel, op een duurzame manier verbonden met het aardoppervlak en gelegen in parken of langsheen de openbare weg.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Bron definitie: GRB-skeletaanvulling detail: WSM3: Niet-verplaatsbare zitbank.",
+        "es": "Enter your translation here"
+      }
+    }
+  ],
+  "properties": [
+    {
+      "EA-Guid": "{4EAF9851-63DD-44f7-A262-796D0F592681}",
+      "name": "verzinkbaar",
+      "label": {
+        "nl": "verzinkbaar",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Geeft aan dat het element ondergronds opgeborgen kan worden.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{1294A1BD-955E-445d-9772-2AC98CC7A710}",
+      "name": "verplaatsbaar",
+      "label": {
+        "nl": "verplaatsbaar",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Duidt aan of het element al dan niet verplaatsbaar is en dus niet permanent verankerd werd met het aardoppervlak.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{7875811F-8453-40b9-8617-CECE2E10B62B}",
+      "name": "straatkolktype",
+      "label": {
+        "nl": "straatkolktype",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Het type straatkolk.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{3B83A3EA-0839-47ca-BAAF-BD1CC14DEFE3}",
+      "name": "stekkertype",
+      "label": {
+        "nl": "stekkertype",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Het stekkertype volgens de IEC norm 62196.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{11D169BF-DF59-40e0-A3FA-6991246DF71A}",
+      "name": "speeltoesteltype",
+      "label": {
+        "nl": "speeltoesteltype",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Het type speeltoestel.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{7A3DBB8A-61AE-4edc-BC54-5A45691EE338}",
+      "name": "sorteerfractie",
+      "label": {
+        "nl": "sorteerfractie",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Duidt het materiaal aan om te sorteren.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{80D5C5C1-7C28-441b-93EF-F563E216F824}",
+      "name": "rioleringscode",
+      "label": {
+        "nl": "rioleringscode",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "De rioleringscode is een arbitraire notitie van waarneembare eigenschappen van het deksel m.b.t. de beheerder en de functie van de ondergrondse ioleringsleiding.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Het GRB voorziet een codelijst: WRC1: Rioleringscode.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{DB820623-399E-4db9-981C-D5C0868DF183}",
+      "name": "overdekt",
+      "label": {
+        "nl": "overdekt",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Duidt aan of het object al dan niet overdekt is.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{7FBD51B3-0AC1-4439-B03C-6815275F4AF6}",
+      "name": "oplaadwijze",
+      "label": {
+        "nl": "oplaadwijze",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "De oplaadwijze volgens de IEC norm 62196.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{160DD3FB-6B0D-4bd1-B595-B12D04D63BC1}",
+      "name": "nutsvoorzieningscode",
+      "label": {
+        "nl": "nutsvoorzieningscode",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Aanduiding van de soort nutsvoorziening.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Het GRB voorziet een codelijst: WNC nutsvoorzieningscode.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{3CF10F64-136A-4f6a-86D6-B392D6F00AA8}",
+      "name": "nutsvoorzieningscode",
+      "label": {
+        "nl": "nutsvoorzieningscode",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Aanduiding van de soort nutsvoorziening.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Het GRB voorziet een codelijst: WNC nutsvoorzieningscode.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{DB2C9D72-2B6A-4757-8699-779AC2D4CB37}",
+      "name": "nutsvoorzieningscode",
+      "label": {
+        "nl": "nutsvoorzieningscode",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Aanduiding van de soort nutsvoorziening.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Het GRB voorziet een codelijst: WNC nutsvoorzieningscode.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{5D1C68E1-F440-48ff-BA9F-0550F011E0FB}",
+      "name": "materiaal",
+      "label": {
+        "nl": "materiaal",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Materiaal waar het object uit vervaardigd is.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Als mogelijke waarden voor dit attributen verwijzen we naar de materialen thesaurus van Onroerend Erfgoed: https://thesaurus.onroerenderfgoed.be/conceptschemes/MATERIALEN",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{4F3D763D-A357-4823-BE12-6A17845B0767}",
+      "name": "inwendig verlicht",
+      "label": {
+        "nl": "inwendig verlicht",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Duidt aan of het element al dan niet inwendig verlicht is.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{511BE658-A61B-4256-B080-D877A3A47F81}",
+      "name": "geschikt voor",
+      "label": {
+        "nl": "geschikt voor",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Duidt het vervoersmiddel aan waarvoor het object geschikt is: auto, fiets,...",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{F5FE3004-F4E9-4495-90DF-144A8D1ADA0A}",
+      "name": "fietsdelen",
+      "label": {
+        "nl": "fietsdelen",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Duidt aan of de fietsstalling al dan niet gebruikt wordt voor deelfietsen.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{62E6AA92-7551-41b0-9262-866DA74A4942}",
+      "name": "drinkbaar",
+      "label": {
+        "nl": "drinkbaar",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Geschikt voor menselijke consumptie.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{A58CABD0-65BA-469a-B4EA-B1EE7E14ECD4}",
+      "name": "deksel vorm",
+      "label": {
+        "nl": "deksel vorm",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "De vorm van het deksel.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{3B16FF90-484C-41a1-B72C-3305ABCF7D4F}",
+      "name": "capaciteit",
+      "label": {
+        "nl": "capaciteit",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Geeft aan hoeveel fietsen gestald kunnen worden aan of in de fietsenstalling.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{1FC0079E-6798-4e2d-8182-8D17672CE55F}",
+      "name": "afsluitbaar",
+      "label": {
+        "nl": "afsluitbaar",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Duidt aan of het object al dan niet kan afgesloten worden om toegang voor onbevoegden te verhinderen.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{45C2F7A8-B5AC-48ba-87B6-0467B3515708}",
+      "name": "aantal ankerpunten",
+      "label": {
+        "nl": "aantal ankerpunten",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Het aantal bevestigingspunten waarmee de mast verankerd is aan het aardoppervlak.",
+        "es": "Enter your translation here"
+      }
+    }
+  ],
+  "externals": [
+    {
+      "EA-Guid": "{7C17057C-E498-4220-9ACB-F085529C68B6}",
+      "name": "Fontein",
+      "label": {
+        "nl": "Fontein",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{337D0365-F029-47eb-B3E7-F670A84C8434}",
+      "name": "Materialen",
+      "label": {
+        "nl": "Materialen",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{684969C3-F561-4e0a-8D67-CDFCCD843A6F}",
+      "name": "Sorteerfracties",
+      "label": {
+        "nl": "Sorteerfracties",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Types materiaal om te sorteren",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{60542CFA-6FA5-4db7-BDBE-47FD912B31CB}",
+      "name": "Vervoersmiddelen",
+      "label": {
+        "nl": "Vervoersmiddelen",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Types vervoersmidellen",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{4F3C1B0A-BC93-4aa4-8FD0-1E76E93DB84E}",
+      "name": "Speel- en Sportvoorzieningtype",
+      "label": {
+        "nl": "Speel- en Sportvoorzieningtype",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Typering voor speel- en sportvoorziening volgens de EN 1176  norm.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{453D5571-73B9-4731-9A7B-C5DE1C06BB26}",
+      "name": "Oplaadwijzes",
+      "label": {
+        "nl": "Oplaadwijzes",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Oplaadwijzes volgens de IEC norm 62196.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{E061CA0D-0339-400a-A249-11948B6B8869}",
+      "name": "Oplaadpunt Stekkertypes",
+      "label": {
+        "nl": "Oplaadpunt Stekkertypes",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "De stekkertypes voor elektrische voortuigen zoals vastgelegd in de IEC-norm 62196.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{9167BBBD-53BD-4a60-A112-CBFAA9DD28A6}",
+      "name": "Straatkolktypes",
+      "label": {
+        "nl": "Straatkolktypes",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Het type straatkolk naar de GRB classificatie.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{614814EE-51C5-4150-890E-6D80353F7292}",
+      "name": "Nutsvoorzieningscodes",
+      "label": {
+        "nl": "Nutsvoorzieningscodes",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Aanduiding van de soort nutsvoorziening. Naar GRB-skeletoptie wegbeheer - WNC: nutsvoorzieningscode.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{F24ACFF5-B68D-467d-9865-FBAE7860A894}",
+      "name": "Dekselvormwaarde",
+      "label": {
+        "nl": "Dekselvormwaarde",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "De vorm van het deksel.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{C8506CD5-4418-4887-97C4-2F43D8D3AC77}",
+      "name": "Nauwkeurigheidsklassen",
+      "label": {
+        "nl": "Nauwkeurigheidsklassen",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "De nauwkeurigheid waarmee objecten opgemeten worden hangt af van de meetmethode (terrestrisch of via luchtfotogrammetrie) en van de precisie waarmee objecten op het terrein kunnen aangeduid worden. Het GRB definieert 6 nauwkeurigheidsklassen van A tot en met F. Daarnaast werden op basis van het IMKL datamodel ook nog de waarden 'tot 50cm' en 'tot 100cm' opgenomen.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{713AB702-7885-4b59-8A08-CB95EF9F8919}",
+      "name": "Rioleringscode",
+      "label": {
+        "nl": "Rioleringscode",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "De rioleringscode is een arbitraire notitie van waarneembare eigenschappen van het putdeksel m.b.t. de beheerder en de functie van de ondergrondse rioleringsleiding.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{A8C3620F-8AC9-4df1-8B9A-838A9043531F}",
+      "name": "Element",
+      "label": {
+        "nl": "Element",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Afzonderlijk te onderscheiden element dat ofwel direct of indirect bevestigd is aan het aardoppervlak.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{0C707DB5-1D87-4604-8A06-36F07898FB03}",
+      "name": "Fysiek object",
+      "label": {
+        "nl": "Fysiek object",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "De hoofdklasse waar alle objecten die geïnventariseerd kunnen worden van afgeleid worden.",
+        "es": "Enter your translation here"
+      }
+    }
+  ],
+  "externalproperties": [
+    {
+      "EA-Guid": "{48EBC730-AAD3-4933-866F-91A77EB4014A}",
+      "name": "niveau",
+      "label": {
+        "nl": "niveau",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Het niveau waarop het object zich bevindt, relatief ten opzichte van andere objecten.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Negatieve waarden worden geassocieerd met ondergronds en positieve waarden met bovengronds. Nul wordt beschouwd als een absolute waarde om het maaiveld aan te duiden.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{C8476B1B-390B-4fa3-A3D3-C1B211E2C693}",
+      "name": "nauwkeurigheid",
+      "label": {
+        "nl": "nauwkeurigheid",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "De precisie waarmee het object opgemeten werd.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{4F5A2878-E02F-44b7-957E-40E5E7C39AE9}",
+      "name": "einddatum",
+      "label": {
+        "nl": "einddatum",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Datum waarop de huidige versie van het gebied of object uit gebruik wordt genomen.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{8C952A4E-0982-4b13-8600-70656D8FE5FF}",
+      "name": "begindatum",
+      "label": {
+        "nl": "begindatum",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Datum waarop de huidige versie van het gebied of object in gebruik wordt genomen.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{D0642712-C066-4503-B618-BB35671F2727}",
+      "name": "geometrie",
+      "label": {
+        "nl": "geometrie",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "De geometrie overeenkomstig met een bepaald object.",
+        "es": "Enter your translation here"
+      }
+    },
+    {
+      "EA-Guid": "{6B595E84-9F0B-4410-B9F4-3D8C305C0461}",
+      "name": "relatie",
+      "label": {
+        "nl": "relatie",
+        "es": "Enter your translation here"
+      },
+      "definition": {
+        "nl": "Verwijst naar een object in een andere databank dat meer informatie kan verschaffen over het beheerobject.",
+        "es": "Enter your translation here"
+      },
+      "usage": {
+        "nl": "Bijvoorbeeld een verwijzing naar een object uit het wegenregister of grootschalig referentiebestand.",
+        "es": "Enter your translation here"
+      }
+    }
+  ]
+}
